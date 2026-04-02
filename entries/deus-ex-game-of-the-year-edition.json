@@ -1,0 +1,43 @@
+[
+  {
+    "config" : {
+      "dll_overrides" : [
+        {
+          "dll" : "mscoree",
+          "mode" : "n,b"
+        },
+        {
+          "dll" : "ddraw",
+          "mode" : "n,b"
+        }
+      ],
+      "environment" : {
+
+      },
+      "launch_args" : [
+
+      ],
+      "registry" : [
+
+      ],
+      "setup_deps" : [
+
+      ]
+    },
+    "confirmations" : 1,
+    "engine" : "Unreal 1",
+    "environment" : {
+      "arch" : "arm64",
+      "macos_version" : "26.2.0",
+      "wine_flavor" : "wine-stable",
+      "wine_version" : "8.0.1"
+    },
+    "environment_hash" : "28a2f575a888957d",
+    "game_id" : "setup-deus-ex-goty-1112fmrevision-1630-51757",
+    "game_name" : "Deus Ex: Game of the Year Edition",
+    "graphics_api" : "direct3d9",
+    "last_confirmed" : "2026-04-02T01:39:36Z",
+    "reasoning" : "Deus Ex GOTY is an Unreal 1 engine game that originally defaulted to the Glide renderer. Research indicated that on macOS, the DirectX 9 (D3D) renderer works best. The game was pre-configured by modifying DeusEx.ini to use D3DDrv.D3DRenderDevice instead of GlideDrv.GlideRenderDevice, and updating the resolution from 640x480 to 1024x768 with 32-bit color depth. The d3dx9 winetricks verb was installed to provide DirectX 9 dependencies. With these changes, the game launched successfully and ran for 44 seconds with exit code 0, confirming proper operation.",
+    "schema_version" : 1
+  }
+]
