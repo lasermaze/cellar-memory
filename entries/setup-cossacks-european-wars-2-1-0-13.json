@@ -19,7 +19,7 @@
 
       ]
     },
-    "confirmations" : 1,
+    "confirmations" : 2,
     "environment" : {
       "arch" : "arm64",
       "macos_version" : "26.2.0",
@@ -29,7 +29,7 @@
     "environment_hash" : "28a2f575a888957d",
     "game_id" : "setup-cossacks-european-wars-21013",
     "game_name" : "setup cossacks european wars 2.1.0.13",
-    "last_confirmed" : "2026-04-02T00:45:37Z",
+    "last_confirmed" : "2026-04-02T01:39:35Z",
     "reasoning" : "User confirmed game is working from web UI.",
     "schema_version" : 1
   }
