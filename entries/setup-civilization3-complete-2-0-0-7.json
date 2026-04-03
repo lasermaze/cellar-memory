@@ -1,0 +1,34 @@
+[
+  {
+    "config" : {
+      "dll_overrides" : [
+
+      ],
+      "environment" : {
+        "WINEDEBUG" : "-all"
+      },
+      "launch_args" : [
+
+      ],
+      "registry" : [
+
+      ],
+      "setup_deps" : [
+
+      ]
+    },
+    "confirmations" : 1,
+    "environment" : {
+      "arch" : "arm64",
+      "macos_version" : "26.2.0",
+      "wine_flavor" : "wine-stable",
+      "wine_version" : "8.0.1"
+    },
+    "environment_hash" : "28a2f575a888957d",
+    "game_id" : "setup-civilization3-complete-2007",
+    "game_name" : "setup civilization3 complete 2.0.0.7",
+    "last_confirmed" : "2026-04-03T01:38:33Z",
+    "reasoning" : "User confirmed game is working from web UI.",
+    "schema_version" : 1
+  }
+]
