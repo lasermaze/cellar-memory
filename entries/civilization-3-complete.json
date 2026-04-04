@@ -1,0 +1,24 @@
+[
+  {
+    "schemaVersion": 1,
+    "gameId": "civilization-3-complete",
+    "gameName": "Civilization 3 complete",
+    "config": {
+      "environment": {},
+      "dllOverrides": [],
+      "registry": [],
+      "launchArgs": [],
+      "setupDeps": []
+    },
+    "environment": {
+      "arch": "arm64",
+      "wineVersion": "8.0.1",
+      "macosVersion": "26.2.0",
+      "wineFlavor": "wine-stable"
+    },
+    "environmentHash": "28a2f575a888957d",
+    "reasoning": "User confirmed game is working.",
+    "confirmations": 1,
+    "lastConfirmed": "2026-04-04T01:45:10Z"
+  }
+]
