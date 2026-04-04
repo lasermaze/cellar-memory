@@ -1,0 +1,26 @@
+[
+  {
+    "schemaVersion": 1,
+    "gameId": "test-game",
+    "gameName": "Test Game",
+    "config": {
+      "environment": {
+        "WINEDLLOVERRIDES": "ddraw=n,b"
+      },
+      "dllOverrides": [],
+      "registry": [],
+      "launchArgs": [],
+      "setupDeps": []
+    },
+    "environment": {
+      "arch": "arm64",
+      "wineVersion": "9.0",
+      "macosVersion": "15.0.0",
+      "wineFlavor": "crossover"
+    },
+    "environmentHash": "abc123def456",
+    "reasoning": "test",
+    "confirmations": 1,
+    "lastConfirmed": "2026-04-03T00:00:00Z"
+  }
+]
