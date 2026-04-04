@@ -1,0 +1,26 @@
+[
+  {
+    "schemaVersion": 1,
+    "gameId": "setup-deus-ex-goty-1112fmrevision-1630-51757",
+    "gameName": "setup deus ex goty 1.112fm(revision 1.6.3.0) (51757)",
+    "config": {
+      "environment": {
+        "WINEDLLOVERRIDES": "mscoree=n,b;ddraw=n,b"
+      },
+      "dllOverrides": [],
+      "registry": [],
+      "launchArgs": [],
+      "setupDeps": []
+    },
+    "environment": {
+      "arch": "arm64",
+      "wineVersion": "8.0.1",
+      "macosVersion": "26.2.0",
+      "wineFlavor": "wine-stable"
+    },
+    "environmentHash": "28a2f575a888957d",
+    "reasoning": "User confirmed game is working from web UI.",
+    "confirmations": 1,
+    "lastConfirmed": "2026-04-04T01:42:56Z"
+  }
+]
