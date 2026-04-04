@@ -1,0 +1,24 @@
+[
+  {
+    "schema_version": 1,
+    "game_id": "snake-case-test",
+    "game_name": "Snake Case Test",
+    "config": {
+      "environment": {},
+      "dll_overrides": [],
+      "registry": [],
+      "launch_args": [],
+      "setup_deps": []
+    },
+    "environment": {
+      "arch": "arm64",
+      "wine_version": "9.0",
+      "macos_version": "15.0",
+      "wine_flavor": "crossover"
+    },
+    "environment_hash": "test123",
+    "reasoning": "test",
+    "confirmations": 1,
+    "last_confirmed": "2026-04-03T00:00:00Z"
+  }
+]
