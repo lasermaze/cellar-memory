@@ -36,23 +36,5 @@
 ### PCGamingWiki
 
 > Quake III Arena is a singleplayer and multiplayer first-person action, FPS and shooter game in the Quake series.
-> On August 19, 2005, id Software released the source code.[1]
-> Configuration file(s) location
-> Launch the game at least once then close it.
-> Open <path-to-game>\baseq3\q3config.cfg with a text editor.
-> Change the following lines to set the resolution. seta r_customwidth "XXXX" seta r_customheight "XXXX"
-> Change the following line to this value. seta r_mode "-1"
-> Launch the game at least once, then close it.
-> Go to the configuration file(s) location.
-> Open q3config.cfg with a text editor.
-> Change the following line to the desired value: seta cg_fov "XX"
-> The game crashes on exit (Steam)
-> Right-click the game in the Steam library.
-> Uncheck Enable the Steam Overlay while in-game.
-> Find the line r_overBrightBits 2.
-> Launch Quake 3 with either quake3e-vulkan.x64 or quake3e-vulkan.
-> Open the developer console (default key: tilde `).
-> Type r_fbo 1, and press Enter.
-> Then either type vid_restart and press Enter again, or close and restart Quake3e Vulkan to apply changes.
-> After starting the game, open the console, write /r_subdivisions -1; r_lodbias -1 then press Enter. The first command increases world geometry detail, whereas the second command uses high-quality models regardless of the viewing distance.
-> ↑ 1.0 1.
+> Graphics feature State WSGF Notes Widescreen resolution See Widescreen resolution. Multi-monitor A source port is required. See Source ports. Ultra-widescreen See Widescreen resolution. Image is Vert- and FOV will need to be increased to compensate. See Field of view (FOV). 4K Ultra HD See Widescreen resolution. Chat text does not scale. Field of view (FOV) See Field of view (FOV). Windowed Borderless fullscreen windowed Anisotropic filtering (AF) Can be forced through the Nvidia Control Panel/AMD Control Center, or by using a source port. See Source ports. Anti-aliasing (AA) In source ports like ioquake3, open the console and enter /r_ext_multisample N where N is the number of MSAA samples. Use /vid_restart to apply changes. High-fidelity upscaling See the glossary page for potential workarounds. Vertical sync (Vsync) Vsync is the "Sync Every Frame" setting. 60 FPS 120+ FPS Frame rate is capped at 90 FPS. Override with /com_maxfps XX in the console. Certain numbers can adversely affect player physics. High dynamic range display (HDR) See the glossary page for potential alternatives. Color blind mode See the glossary page for potential alternatives.
+> ioquake3 supports OpenAL Soft for binaural HRTF mixing.[9] Unlike A3D 2.0, it does not support elevation HRTF effects.
