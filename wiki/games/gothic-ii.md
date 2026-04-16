@@ -36,37 +36,18 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Gothic II Fix (Report-Version) 3.3 Player-Kit 3.4 Union (SystemPack 2.0) 3.5 Gothic LegacyAltRenderer 3.6 GRawInput 3.7 Skip intro videos
-> 3.1 Patches
-> 3.2 Gothic II Fix (Report-Version)
-> 3.3 Player-Kit
-> 3.4 Union (SystemPack 2.0)
-> 3.5 Gothic LegacyAltRenderer
-> 3.6 GRawInput
-> 3.7 Skip intro videos
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution 5.2 Windowed 5.3 Borderless fullscreen windowed 5.4 Anisotropic filtering (AF) 5.5 Anti-aliasing (AA)
-> 5.1 Widescreen resolution
-> 5.2 Windowed
-> 5.3 Borderless fullscreen windowed
-> 5.4 Anisotropic filtering (AF)
-> 5.5 Anti-aliasing (AA)
-> 6 Input 6.1 Mouse sensitivity 6.2 Controller support
-> 6.1 Mouse sensitivity
-> 6.2 Controller support
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 9 VR support
-> 10 Issues fixed (Windows) 10.1 Black videos (sound but no picture) 10.2 Window border visible in fullscreen mode 10.3 Low frame rate in fullscreen mode 10.4 "C: maximum texture size is lower than 32" error 10.5 Can't Alt+Tab ↹(GOG.com) 10.6 Constant Tab input after Alt+Tab 10.
+> Gothic II is a singleplayer third-person RPG and ARPG game in the Gothic series.
+> The latest retail patches for the German version are Patch v1.30 for the base Gothic II and Add-on Patch 2.6 for the Night of the Raven expansion. All English versions and German digital distribution versions already include the latest patches.
+> Gothic II Fix (Report-Version)
+> If you are using a disc version ensure you have the latest patch (see Patches).
+> Download and install the Player-Kit from the link above.
+> Mods can now be installed. The in-game version number is changed to 2.6.
+> Alternative version of the SystemPack called Union (also referred to as SystemPack 2.0) provides additional bug fixes and engine improvements, including improved performance, steam overlay support and 64-bit patch for x64 systems.
+> Download and install Microsoft Visual C++ Redistributable 2010.
+> Download and install the "Union Primary Universal Patch" from the link above.
+> Download and install Union (SystemPack 2.0) from the link above.
+> Gothic LegacyAltRenderer improves compatibility on new systems by replacing Gothic II's old DX7 API with an option for DX9, DX12, Vulkan or OpenGL and also provides noticeable performance improvement without making any changes to graphics (as opposed to D3D11 Renderer).
+> Completely fixes the mouse by adding raw input support.
+> Go to the configuration file(s) location.
+> Change playLogoVideos=1 to playLogoVideos=0
+> Save the changes. The game will now go directly to the main menu when launched.
