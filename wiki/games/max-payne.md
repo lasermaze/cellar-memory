@@ -35,29 +35,25 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Demo
-> 1.1 Demo
-> 2 Monetization 2.1 Microtransactions
-> 2.1 Microtransactions
-> 3 Essential improvements 3.1 Patches 3.2 Fix Packs 3.2.1 Complete FixPack 3.2.2 Definitive Fix 3.3 Skip intro videos 3.4 Skip launcher 3.5 Remove broken Adaptive Difficulty
-> 3.1 Patches
-> 3.2 Fix Packs 3.2.1 Complete FixPack 3.2.2 Definitive Fix
-> 3.2.1 Complete FixPack
-> 3.2.2 Definitive Fix
-> 3.3 Skip intro videos
-> 3.4 Skip launcher
-> 3.5 Remove broken Adaptive Difficulty
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Field of view (FOV) 5.2 Borderless fullscreen windowed 5.3 Vertical sync (Vsync) 5.4 High frame rate
-> 5.1 Field of view (FOV)
-> 5.2 Borderless fullscreen windowed
-> 5.3 Vertical sync (Vsync)
-> 5.4 High frame rate
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Issues fixed 8.1 Corrupted files in the French version (Steam) 8.2 Installer fails on Windows 7 64-bit and later (Retail) 8.3 Missing audio 8.4 The launcher does not start 8.5 JPEG errors on modern CPUs 8.6 Game crashes or videos fail to load 8.7 Error: setFullscreen - creating the device failed: E_FAIL 8.8 Exception in engineInit: Unable to load saved game "Files" 8.9 Exception in startupInit: Directory \data not found 8.10 Game won't launch, shows up in task manager, white screen 8.11 Random freezes 8.12 Permanent exclamation mark in cutscenes 8.
+> Max Payne is a singleplayer third-person action, shooter and TPS game in the Max Payne series.
+> The game has a few issues running on Windows Vista and later, see Missing audio for more details. Also to prevent the game from locking up during startup, the unofficial startup hang patch should be applied. For users of some modern AMD and Intel processors, the game won't work by default.[3][4] See JPEG errors on modern CPUs for a fix.
+> Remove broken Adaptive Difficulty
+> Extract the contents of the download to <path-to-game>.
+> Configuration file(s) location
+> Download ThirteenAG's widescreen fix.
+> Open <path-to-game>\scripts\MaxPayne.WidescreenFix.ini with a text editor.
+> Change the FOVFactor value as desired.[Note 3]
+> Borderless fullscreen windowed
+> Go to <path-to-game> and create a file called wndmode.ini.
+> Open <path-to-game>\scripts\global.ini with a text editor.
+> Change the UseD3D8to9 value to 1.
+> Corrupted files in the French version (Steam)
+> Extract the downloaded files to <path-to-game>.
+> Replace the files when prompted.
+> Installer fails on Windows 7 64-bit and later (Retail)
+> Download the unofficial patch.
+> Extract the contents to <path-to-game>.
+> Follow the on-screen instructions.
+> Extract it to <path-to-game> and overwrite rlmfc.dll.
+> Open <path-to-game>\rlmfc.dll in a hex editor.
+> Replace 83 E0 0F with 90 90 90.
