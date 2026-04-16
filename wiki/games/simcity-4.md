@@ -36,12 +36,11 @@
 ### PCGamingWiki
 
 > SimCity 4 is a singleplayer bird's-eye view building and simulation game in the SimCity series.
-> The game received the Rush Hour expansion pack in September 2003, and the two products would be bundled as the Deluxe Edition in retail and digital stores. The Steam and GOG.com releases of the Deluxe Edition would receive additional compatibility tweaks, but the Origin/EA App release would use an obsolete build until June 2023, when it was synchronized with the other digital versions.[3]
-> The game was designed only with a single processor core in mind, and running on multi-core processors causes crashes unless a command line argument forcing single-core affinity is used. Additionally, the hardware renderer performs poorly on present-day systems, requiring manual hardware recognition changes or falling back to the software renderer.
-> Launching game on modern systems
-> Improves stability on systems with at least 3 GB RAM by allowing the application to use more than 2 GB RAM.
-> In the Steam Library, right-click on SimCity 4 Deluxe.
-> Type applesilicon into the beta access code field.
-> Configuration file(s) location
-> OS X and Intel CPU major flaws
-> An integer overflow bug is also present in the game. Under certain conditions, the Junior Sports Program and Parks and Recreation expense items will be a negative value - thus adding to the end of month balance instead of reducing it.
+> Run the game with the -intro:off command line argument[11]
+> Extensively reworks the road system, improves traffic simulator, pathfinding and performance. Requires at least version 1.1.638; digital releases are compatible by default.[12]
+> ### SC4Fix: Third Party Patches
+> A third party DLL that fixes hard-coded bugs and crashes like the infamous 'prop pox' bug[13] and crashes when hovering NAM puzzle pieces. Helps revive and repair cities affected by the 'prop pox' bug.
+> Experiencing issues on Apple ARM devices
+> When running the default variant of the game on Steam on Apple ARM hardware, users may encounter issues. Aspyr officially released a new version that added native Apple ARM support on January 12, 2023.[14] The Mac App Store version updates automatically to this new version when appropriate since update 1.2.2.[15]
+> Steam: switch to Apple ARM branch[16] Old MacOS-port is still available as the default option on Steam, requiring Apple ARM users to switch to a Steam Beta branch to acquire the update. In the Steam Library, right-click on SimCity 4 Deluxe. Click on Properties Click on Beta. Type applesilicon into the beta access code field. Click on Check Code. Click on Opt-in. Wait for the app to update.
+> Graphics feature State WSGF Notes Widescreen resolution See Widescreen resolution. Multi-monitor See the WSGF entry.
