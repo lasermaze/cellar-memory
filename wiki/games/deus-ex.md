@@ -35,32 +35,24 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Essential improvements 2.1 Patches 2.2 Community Update 2.3 Run without the CD or Steam
-> 2.1 Patches
-> 2.2 Community Update
-> 2.3 Run without the CD or Steam
-> 3 Game data 3.1 Configuration file(s) location 3.2 Save game data location 3.3 Save game cloud syncing
-> 3.1 Configuration file(s) location
-> 3.2 Save game data location
-> 3.3 Save game cloud syncing
-> 4 Video 4.1 Windowed 4.2 High frame rate
-> 4.1 Windowed
-> 4.2 High frame rate
-> 5 Input 5.1 Controller support
-> 5.1 Controller support
-> 6 Audio 6.1 Localizations
-> 6.1 Localizations
-> 7 Network 7.1 Multiplayer types 7.2 Connection types 7.3 Ports
-> 7.1 Multiplayer types
-> 7.2 Connection types
-> 7.3 Ports
-> 8 VR support
-> 9 Issues fixed 9.1 Brightness slider not working 9.2 Saves not working "Low Disk Space" 9.3 Audio stutter/game crashing due to audio subsystem 9.4 The game freezes and stutters during gameplay and menus 9.5 32-bit color won't enable 9.6 Crash when enabling 32-bit color 9.7 Error message crash on startup 9.8 Large-scale graphical glitches 9.9 Shadows appear scratchy/green 9.10 GUI scaling issues 9.11 Missing music on last visit to Hell's Kitchen 9.12 HUD & subtitles are broken when using Nvidia 3D Vision 9.13 Restore 3D sound 9.14 HDR not functioning correctly in Direct3D 10 renderer
-> 9.1 Brightness slider not working
-> 9.2 Saves not working "Low Disk Space"
-> 9.3 Audio stutter/game crashing due to audio subsystem
-> 9.
+> Deus Ex is a singleplayer and multiplayer first-person action, FPS, immersive sim, shooter and stealth game in the Deus Ex series.
+> In May 2001, the game was re-released as the Game of the Year Edition with additional multiplayer game modes (deathmatch and team deathmatch), an official SDK level editor and a soundtrack disc. This release of the game is the one sold on digital stores.
+> The community update is an unofficial patch package assembled by the Deus Ex community and Xen's Deus Ex Archive.
+> Go to the configuration file(s) location.
+> Configuration file(s) location
+> Use an updated custom renderer.
+> In-game (not in menus), press the "Send Message To All" button (default "T").
+> Type preferences (remember to delete the pre-written text "Say").
+> In the window that should have opened, expand the "Rendering" section, then expand the relevant "Direct3D 9/10/11" or "OpenGL" sub-section.
+> Set "FPSLimit" to the desired limit by clicking on the number next to it.
+> Use the console command preferences.
+> Under Display, set UseJoystick to true.
+> Adjust sensitivity under Joystick.
+> Adjust input under Advanced > Raw Key Bindings.
+> Saves not working "Low Disk Space"
+> Audio stutter/game crashing due to audio subsystem
+> The game freezes and stutters during gameplay and menus
+> Open DeusExe launcher and go to options.
+> Under Video options set FPS limit to 0.
+> Click OK and use a 3rd party tool to limit the frame rate.
+> Restart the game before changing any other settings.
