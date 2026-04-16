@@ -35,35 +35,23 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences
-> 1.1 Version differences
-> 2 Monetization
-> 3 Essential improvements 3.1 Patches 3.2 Unofficial patches 3.2.1 sfall 3.2.2 Unofficial Fallout 2 patch 3.2.3 High Resolution Patch 3.3 Restoration Project Updated
-> 3.1 Patches
-> 3.2 Unofficial patches 3.2.1 sfall 3.2.2 Unofficial Fallout 2 patch 3.2.3 High Resolution Patch
-> 3.2.1 sfall
-> 3.2.2 Unofficial Fallout 2 patch
-> 3.2.3 High Resolution Patch
-> 3.3 Restoration Project Updated
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Windowed
-> 5.1 Windowed
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Issues fixed 8.1 Colors are displayed wrong 8.2 Error Initializing Video Mode 640x480 8.3 Choppy mouse and/or Stuttering 8.4 Freezing for multiple seconds and/or crashing during Combat
-> 8.1 Colors are displayed wrong
-> 8.2 Error Initializing Video Mode 640x480
-> 8.3 Choppy mouse and/or Stuttering
-> 8.4 Freezing for multiple seconds and/or crashing during Combat
-> 9 Other information 9.1 API 9.2 Utilities 9.2.1 Fallout 2 Save Editor 9.2.2 Falche2 9.2.3 Peixoto's patch 9.3 Mods 9.3.1 MIB88 Megamod 9.3.2 Restoration Project extensions/standalone 9.3.3 Restoration fix 9.4 Fallout Et Tu
-> 9.1 API
-> 9.2 Utilities 9.2.1 Fallout 2 Save Editor 9.2.2 Falche2 9.2.3 Peixoto's patch
-> 9.2.1 Fallout 2 Save Editor
-> 9.2.2 Falche2
-> 9.2.3 Peixoto's patch
-> 9.3 Mods 9.3.
+> Fallout 2 is a singleplayer isometric and bird's-eye view RPG game in the Fallout series.
+> Configuration file(s) location
+> Go to the installation folder.
+> Under [Graphics], set Mode to 5
+> mode=4 for fullscreen DX9 mode or mode=5 for windowed DX9 mode.
+> Error Initializing Video Mode 640x480
+> Create a custom resolution of 640x480 with 60Hz refresh rate and 8 bits per pixel. In the Nvidia Control Panel under Display > Manage. For AMD users, this can be done in the AMD VISION Engine Control Center.
+> In the Nvidia Control Panel under Display > Manage.
+> For AMD users, this can be done in the AMD VISION Engine Control Center.
+> Choppy mouse and/or Stuttering
+> Disable any kind of framerate limit like RTSS or any form of forced Vsync in your GPU driver control panel or via external wrappers.
+> If playing on a laptop or a machine with a Dual GPU, try forcing the game to run on the integrated graphics instead of dedicated.
+> Open ddraw.ini and set ProcessorIdle to about 15 (might vary).[4]
+> Freezing for multiple seconds and/or crashing during Combat
+> Open f2_res.ini and enable extra win message check by setting EXTRA_WIN_MSG_CHECKS=1.
+> An mod pack that add new content and other enhancements.
+> These mods can also work with the Restoration Project mod, although some can also work on the base game as well.
+> EcCo - a gameplay overhaul for Restoration Project.
+> Gangster Armor - adds a gangster-style armor for Restoration Project.
+> Francis Dialogue Fix - Fixes the dialogue for Francis.
