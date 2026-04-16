@@ -35,11 +35,7 @@
 
 ### PCGamingWiki
 
-> Diablo II is a singleplayer and multiplayer bird's-eye view and isometric ARPG game in the Diablo series.
-> The game received the Lord of Destruction expansion pack in June 2001. Like prior Blizzard games, both titles were supported simultaneously. The initial support cycle lasted until October 2011 with patch 1.13d, during which time the disc check was removed (supposing an official workaround is used), many bugs were fixed and balancing was refined. Four additional compatibility patches were published between March and June 2016, the latest being 1.14d.
-> The game was succeeded by Diablo II: Resurrected September 2021, but the original 2000 version with the latest patch is still available for sale on Battle.net. Running this version on present-day systems does not cause major issues, but unofficial methods are needed for modern quality-of-life improvements like widescreen resolution unless running Resurrected.
-> The game updates automatically when connecting to Battle.net, though it is still possible to download and apply patches manually. Older patch versions can be found at soggi.org (see table below).
-> Install the Diablo II patch only if Lord of Destruction is not installed.
-> For older copies of the game, do the following:
-> Perform a "full" installation (not a minimal install) of Diablo II (and Lord of Destruction if applicable).
-> Copy all .MPQ files from the Diablo II (and LoD, if applicable) discs to <path-to-game>. Ignore any files that already exist.
+> Skip intro videos Download Diablo 2 No Intro Mod. Extract data to the installation folder. Start the game with the -direct -txt command line arguments.
+> Graphics feature State WSGF Notes Widescreen resolution Maximum resolution available for the base game is 640x480. LOD expansion introduces 800x600. See Widescreen resolution. Multi-monitor See Widescreen resolution. Ultra-widescreen See Widescreen resolution. 4K Ultra HD Field of view (FOV) Windowed Use Succulent for a better experience. Borderless fullscreen windowed Use MultiRes and GameCompanion.[3] Anisotropic filtering (AF) Anti-aliasing (AA) Vertical sync (Vsync) Available via Sven's Glide Wrapper. 60 FPS and 120+ FPS Single player is capped at 25 FPS;[4] Multiplayer mode is limited to the monitor's refresh rate. High dynamic range display (HDR) See the glossary page for potential alternatives. Color blind mode See the glossary page for potential alternatives.
+> Keyboard and mouse State Notes Remapping Mouse sensitivity Mouse acceleration Mouse input in menus Keyboard and mouse prompts Mouse Y-axis inversion Controller Controller support
+> Audio feature State Notes Separate volume controls Surround sound 4.0 also supported.[7] Subtitles On by default. Can be toggled Closed captions Mute on focus lost EAX support A3D 2.0 & EAX 2.
