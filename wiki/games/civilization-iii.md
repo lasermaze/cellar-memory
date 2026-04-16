@@ -36,9 +36,8 @@
 ### PCGamingWiki
 
 > Sid Meier's Civilization III is a singleplayer and multiplayer bird's-eye view and isometric 4X and TBS game in the Civilization series.
-> The game received two expansion packs: Play the World in October 2002, and Conquests in November 2003. Play the World was the first iteration of the game which included multiplayer, while Conquests includes the former on its disc. Both expansions included a range of new units, game modes and scenarios. They were combined with the base game in the Complete edition as of September 2004, and this compilation is the only version of the games available on digital stores; however, in the mentioned digital releases, only the Conquests executable is present.
-> On March 16, 2015, the Steam release was updated to replace the GameSpy multiplayer infrastructure with that of Steamworks,[1] but aside from removing LAN, the game has had reports of lower stability compared to prior releases.[2], which can be largely resolved by compatibility mode settings for Windows XP SP2.
-> The C3X unofficial patch exists to resolve the game's inherent bugs. An audio glitch has been reported which mutes audio in the diplomacy screen (often with a garbled noise preceding it), which can be resolved by using IndirectSound to fix the underlying cause.
-> Add the following line at the end of the file: PlayIntro=0.
-> Configuration file(s) location
-> Save the changes. The game will now run at the desktop resolution as borderless fullscreen.
+> Edit configuration file[7] Open the configuration file. Add the following line at the end of the file: PlayIntro=0. Save the changes.
+> Graphics feature State WSGF Notes Widescreen resolution See Widescreen resolution. Multi-monitor See Widescreen resolution. Ultra-widescreen See Widescreen resolution. 4K Ultra HD See Widescreen resolution. Field of view (FOV) Windowed See Windowed. Borderless fullscreen windowed Enabled by default but low-resolution; see Widescreen resolution. Anisotropic filtering (AF) Anti-aliasing (AA) High-fidelity upscaling See the glossary page for potential workarounds. Vertical sync (Vsync) 60 FPS and 120+ FPS High dynamic range display (HDR) See the glossary page for potential alternatives. Color blind mode See the glossary page for potential alternatives.
+> Keyboard and mouse State Notes Remapping See the glossary page for potential workarounds. Mouse sensitivity Mouse acceleration Uses OS cursor. Mouse input in menus Keyboard and mouse prompts End turn prompt only. Mouse Y-axis inversion Controller Controller support
+> Audio feature State Notes Separate volume controls Surround sound Subtitles No spoken text. Closed captions Mute on focus lost Royalty free audio
+> Either expansion pack is required, as the base game does not have multiplayer support.
