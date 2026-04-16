@@ -35,31 +35,6 @@
 
 ### PCGamingWiki
 
-> This page is for the original game client up to and including the v1.31.1 patch. For the v1.32.0 patch and above, see the 2020 reimagining Warcraft III: Reforged.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.1.1 List of 1.27b patches 3.2 Conversion to Reforged build
-> 3.1 Patches 3.1.1 List of 1.27b patches
-> 3.1.1 List of 1.27b patches
-> 3.2 Conversion to Reforged build
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 5 Video 5.1 Run the game at screen refresh rate 5.2 Enabling V-sync for exclusive fullscreen mode
-> 5.1 Run the game at screen refresh rate
-> 5.2 Enabling V-sync for exclusive fullscreen mode
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 9 VR support
-> 10 Issues fixed 10.1 Running the game on Intel-based Macs 10.2 "Windows NT is not supported" 10.3 Windows Vista, 7, 8.1, and 10 compatibility 10.4 The Frozen Throne installer does not recognize a Reign of Chaos installation 10.5 The Frozen Throne installer stuck on "Waiting for files to close" 10.6 Black screen with audio for in-game cinematics 10.7 Low performance in Wine 10.8 Microstutter on modern machines
-> 10.1 Running the game on Intel-based Macs
-> 10.
+> Warcraft III: Reign of Chaos is a fantasy RTS game developed by Blizzard Entertainment with singleplayer and multiplayer content, and is the first fully 3D game by the studio.
+> The game was released in July 2002, with The Frozen Throne expansion pack following in July 2003. They both use the same executable, with Reign of Chaos accessed with the -classic command line argument. Like prior Blizzard games, both titles were supported simultaneously. The initial support cycle lasted until March 2011 with patch 1.26a, during which time the disc check was removed, basic widescreen resolution support was implemented, balancing was refined, new maps and neutral heroes were added, and The Frozen Throne's Rexxar campaign received its second and third acts. The game's support was restarted in March 2016; patch 1.27b from December 2016 is the last patch applicable to the retail version of the game, as all subsequent ones were distributed through Battle.net exclusively.
+> With patch 1.29.0 from April 2018, the game started using different formats than before, and more quality-of-life improvements were added (such as support for more players in skirmish and multiplayer, improved widescreen support, etc.) laying the foundation for the "classic" mode of the then-upcoming Warcraft III: Reforged. The last pre-Reforged version was 1.31.1 from June 2019. Redeeming the serial keys of the retail version on Battle.
