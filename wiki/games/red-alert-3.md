@@ -35,42 +35,6 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Demo
-> 1.1 Demo
-> 2 Monetization
-> 3 Essential improvements 3.1 Patches 3.2 Prevent online crash-inducing bugs 3.3 Skip intro videos 3.4 Speed up loading (retail only)
-> 3.1 Patches
-> 3.2 Prevent online crash-inducing bugs
-> 3.3 Skip intro videos
-> 3.4 Speed up loading (retail only)
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution
-> 5.1 Widescreen resolution
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 9 Issues fixed 9.1 Missing skirmish options 9.2 Local multiplayer "CD key is already in use"
-> 9.1 Missing skirmish options
-> 9.2 Local multiplayer "CD key is already in use"
-> 10 Other information 10.1 API 10.2 Middleware 10.3 Command line arguments 10.4 Worldbuilder (map editor) 10.4.1 Worldbuilder crashes 10.5 Map packs 10.6 Mod SDK 10.7 Modifications
-> 10.1 API
-> 10.2 Middleware
-> 10.3 Command line arguments
-> 10.4 Worldbuilder (map editor) 10.4.1 Worldbuilder crashes
-> 10.4.1 Worldbuilder crashes
-> 10.5 Map packs
-> 10.6 Mod SDK
-> 10.7 Modifications
-> 11 System requirements
-> 12 Notes
-> 13 References
-> Warnings
-> Command & Conquer: Red Alert 3 is the third mainline Red Alert game in the Command & Conquer franchise. It is a RTS with both singleplayer and multiplayer being prominently featured.
+> Command & Conquer: Red Alert 3 is the third mainline Red Alert game in the Command & Conquer franchise. It is a RTS with both singleplayer and multiplayer being prominently featured. The campaign mode can be played solely in co-op mode, either with a pre-determined AI commander for that mission when offline, or with a second player when playing online (but not in LAN).
+> Attempts to make a third Red Alert game go as far back as December 2004[3], but the iteration that eventually got released started pre-production in 2007, during or after the completion stages of Command & Conquer 3: Tiberium Wars, with which it shares the engine core. The Command & Conquer 3: Kane's Wrath expansion and initial copies of Command & Conquer 3: Deluxe Edition included beta keys for Red Alert 3, with the beta stages taking place in late summer of 2008. Two beta builds are known and were distributed through FilePlanet, but the first one was short-lived and quickly replaced by beta 2 for yet unknown reasons. The game was completed in approximately 18 months, but with a reduced team size compared to Tiberium Wars.[4]
+> Post-release support included 13 patches in total (12 of which during the initial support cycle), as well as a map editor (Worldbuilder) and mod SDK.
