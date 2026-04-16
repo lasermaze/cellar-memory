@@ -36,23 +36,4 @@
 ### PCGamingWiki
 
 > Deus Ex is a singleplayer and multiplayer first-person action, FPS, immersive sim, shooter and stealth game in the Deus Ex series.
-> In May 2001, the game was re-released as the Game of the Year Edition with additional multiplayer game modes (deathmatch and team deathmatch), an official SDK level editor and a soundtrack disc. This release of the game is the one sold on digital stores.
-> The community update is an unofficial patch package assembled by the Deus Ex community and Xen's Deus Ex Archive.
-> Go to the configuration file(s) location.
-> Configuration file(s) location
-> Use an updated custom renderer.
-> In-game (not in menus), press the "Send Message To All" button (default "T").
-> Type preferences (remember to delete the pre-written text "Say").
-> In the window that should have opened, expand the "Rendering" section, then expand the relevant "Direct3D 9/10/11" or "OpenGL" sub-section.
-> Set "FPSLimit" to the desired limit by clicking on the number next to it.
-> Use the console command preferences.
-> Under Display, set UseJoystick to true.
-> Adjust sensitivity under Joystick.
-> Adjust input under Advanced > Raw Key Bindings.
-> Saves not working "Low Disk Space"
-> Audio stutter/game crashing due to audio subsystem
-> The game freezes and stutters during gameplay and menus
-> Open DeusExe launcher and go to options.
-> Under Video options set FPS limit to 0.
-> Click OK and use a 3rd party tool to limit the frame rate.
-> Restart the game before changing any other settings.
+> Graphics feature State WSGF Notes Widescreen resolution Zoomed in, making it hard to see the full Deus Ex logo in the main menu. Use Deus Exe and/or the Direct3D 10 renderer to adjust FOV. Multi-monitor Use Deus Exe and/or the Direct3D 10 renderer to adjust FOV. Ultra-widescreen Use Deus Exe and/or the Direct3D 10 renderer to adjust FOV. 4K Ultra HD Use Deus Exe and/or the Direct3D 10 renderer to adjust FOV. Field of view (FOV) Set with fov console command or change the lines DesiredFOV and DefaultFOV in User.ini. Default is 75º. Also could be set with Deus Exe. To correct first person weapon models position, use these offsets. Automatic FOV available as an option for the Direct3D 10 renderer. Windowed Toggle with Alt+↵ Enter. See Windowed. Borderless fullscreen windowed Set with Deus Exe. Anisotropic filtering (AF) Use the Direct3D 10 renderer and set in preferences (see here how to change preferences). Anti-aliasing (AA) Use the Direct3D 10 renderer and set in preferences (see here how to change preferences). High-fidelity upscaling See the glossary page for potential workarounds. Vertical sync (Vsync) Triple buffering. Use the Direct3D 10 renderer and set in preferences (see here how to change preferences). If this introduces mouse lag, then set FPS limit to the same value as the display's refresh rate. This can be done in the launcher.
