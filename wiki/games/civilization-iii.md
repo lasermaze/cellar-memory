@@ -35,41 +35,10 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Trial version
-> 1.1 Version differences
-> 1.2 Trial version
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
 > 3 Essential improvements 3.1 Patches 3.2 C3X 3.3 Minor unofficial patches 3.4 Skip intro videos
-> 3.1 Patches
-> 3.2 C3X
-> 3.3 Minor unofficial patches
-> 3.4 Skip intro videos
 > 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution 5.2 Windowed
-> 5.1 Widescreen resolution
-> 5.2 Windowed
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
 > 9 Issues fixed 9.1 Compatibility settings for Steam version 9.2 No music or sound effects during diplomacy 9.3 Freezing / crashing in the space race screen
-> 9.1 Compatibility settings for Steam version
-> 9.2 No music or sound effects during diplomacy
-> 9.3 Freezing / crashing in the space race screen
-> 10 Other information 10.1 API 10.2 Middleware
-> 10.1 API
-> 10.2 Middleware
-> 11 System requirements
-> 12 Notes
-> 13 References
-> Warnings
 > Sid Meier's Civilization III is a singleplayer and multiplayer bird's-eye view and isometric 4X and TBS game in the Civilization series.
-> The game received two expansion packs: Play the World in October 2002, and Conquests in November 2003.
+> The game received two expansion packs: Play the World in October 2002, and Conquests in November 2003. Play the World was the first iteration of the game which included multiplayer, while Conquests includes the former on its disc. Both expansions included a range of new units, game modes and scenarios. They were combined with the base game in the Complete edition as of September 2004, and this compilation is the only version of the games available on digital stores; however, in the mentioned digital releases, only the Conquests executable is present.
+> On March 16, 2015, the Steam release was updated to replace the GameSpy multiplayer infrastructure with that of Steamworks,[1] but aside from removing LAN, the game has had reports of lower stability compared to prior releases.[2], which can be largely resolved by compatibility mode settings for Windows XP SP2.
+> The C3X unofficial patch exists to resolve the game's inherent bugs.
