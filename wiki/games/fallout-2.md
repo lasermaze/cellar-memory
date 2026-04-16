@@ -29,29 +29,21 @@
 (none)
 
 **INI changes:**
-(none)
+- ddraw.ini: mode=0
+- ddraw.ini: mode=4
+- ddraw.ini: mode=5
+- ddraw.ini: mode=0
+- ddraw.ini: mode=4
+- ddraw.ini: mode=5
+- f2_res.ini: EXTRA_WIN_MSG_CHECKS=1
 
 ## Community Notes
 
 ### PCGamingWiki
 
 > Fallout 2 is a singleplayer isometric and bird's-eye view RPG game in the Fallout series.
-> Configuration file(s) location
-> Go to the installation folder.
-> Under [Graphics], set Mode to 5
-> mode=4 for fullscreen DX9 mode or mode=5 for windowed DX9 mode.
-> Error Initializing Video Mode 640x480
-> Create a custom resolution of 640x480 with 60Hz refresh rate and 8 bits per pixel. In the Nvidia Control Panel under Display > Manage. For AMD users, this can be done in the AMD VISION Engine Control Center.
-> In the Nvidia Control Panel under Display > Manage.
-> For AMD users, this can be done in the AMD VISION Engine Control Center.
-> Choppy mouse and/or Stuttering
-> Disable any kind of framerate limit like RTSS or any form of forced Vsync in your GPU driver control panel or via external wrappers.
-> If playing on a laptop or a machine with a Dual GPU, try forcing the game to run on the integrated graphics instead of dedicated.
-> Open ddraw.ini and set ProcessorIdle to about 15 (might vary).[4]
-> Freezing for multiple seconds and/or crashing during Combat
-> Open f2_res.ini and enable extra win message check by setting EXTRA_WIN_MSG_CHECKS=1.
-> An mod pack that add new content and other enhancements.
-> These mods can also work with the Restoration Project mod, although some can also work on the base game as well.
-> EcCo - a gameplay overhaul for Restoration Project.
-> Gangster Armor - adds a gangster-style armor for Restoration Project.
-> Francis Dialogue Fix - Fixes the dialogue for Francis.
+> Graphics feature State WSGF Notes Widescreen resolution Use High Resolution Patch. Pre-installed with GOG.com and Steam. Multi-monitor Ultra-widescreen 4K Ultra HD High Resolution Patch supports 4K but is not recommended as the UI does not scale with resolution and is extremely small in 4K. Pre-installed with GOG.com and Steam. Field of view (FOV) Windowed Use High Resolution Patch or see Windowed. Borderless fullscreen windowed See the glossary page for potential workarounds. Anisotropic filtering (AF) Anti-aliasing (AA) Vertical sync (Vsync) To minimize screen tearing, disable fullscreen optimizations on the executable of the game. 60 FPS and 120+ FPS Locked at a low frame rate. Mouse movement not clamped to engine frame rate. High dynamic range display (HDR) See the glossary page for potential alternatives. Color blind mode See the glossary page for potential alternatives.
+> Keyboard and mouse State Notes Remapping See the glossary page for potential workarounds. Mouse sensitivity Mouse acceleration Mouse input in menus Keyboard and mouse prompts Mouse Y-axis inversion Controller Controller support
+> Audio feature State Notes Separate volume controls Surround sound Subtitles Closed captions Mute on focus lost Royalty free audio The exception is the "A Kiss To Build A Dream On" track by Louis Armstrong.
+> ### Colors are displayed wrong
+> See DirectDraw troubleshooting for other solutions.
