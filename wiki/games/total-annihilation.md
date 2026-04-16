@@ -35,49 +35,20 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Official downloads 3.2 Skip intro videos 3.3 Unofficial v3.9.02 beta patch
-> 3.1 Official downloads
-> 3.2 Skip intro videos
-> 3.3 Unofficial v3.9.02 beta patch
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Windowed
-> 5.1 Windowed
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 9 Issues fixed 9.1 Game does not recognize installed version of DirectX
-> 9.1 Game does not recognize installed version of DirectX
-> 10 Other information 10.1 API 10.2 Middleware
-> 10.1 API
-> 10.2 Middleware
-> 11 Modifications 11.1 Total Annihilation: Escalation
-> 11.1 Total Annihilation: Escalation
-> 12 System requirements
-> 13 Notes
-> 14 References
-> Warnings
 > Total Annihilation is a singleplayer and multiplayer top-down view RTS game in the Total Annihilation series.
-> General information
-> Availability
-> Version differences
-> Demo
-> Monetization
-> DLC and expansion packs
-> Essential improvements
-> Official downloads
-> Skip intro videos
-> Go to <path-to-game>\Data\
 > Delete or rename 1.ZRB and 2.zrb.
-> Unofficial v3.9.
+> Configuration file(s) location
+> Add -d to the end of the shortcut target
+> Download and install TA Patch Resources v1.0
+> Download and install TA Patch v3.9.02 Beta
+> Download IPXWrapper and extract it to <path-to-game>
+> For 32-bit OS, run the file directplay-win32.reg as administrator. For 64-bit OS, run the file directplay-win64.reg as administrator.
+> Pick "IPX Connection for DirectPlay" and leave the search address blank.
+> Game does not recognize installed version of DirectX
+> Total Annihilation: Escalation
+> ↑ 1.0 1.1 Notes regarding Steam Play (Linux) data: File/folder structure within this directory reflects the path(s) listed for Windows and/or Steam game data. Use Wine's registry editor to access any Windows registry paths. The app ID (298030) may differ in some cases. Treat backslashes as forward slashes. See the glossary page for details on Windows data paths.
+> File/folder structure within this directory reflects the path(s) listed for Windows and/or Steam game data.
+> Use Wine's registry editor to access any Windows registry paths.
+> The app ID (298030) may differ in some cases.
+> Treat backslashes as forward slashes.
+> See the glossary page for details on Windows data paths.
