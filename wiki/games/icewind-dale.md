@@ -35,37 +35,16 @@
 
 ### PCGamingWiki
 
-> This page is for the original game from 2000. For the updated enhanced edition released in 2014, see Icewind Dale: Enhanced Edition.
-> Contents
-> 1 Availability
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Mods 3.3 Skip intro videos 3.4 GemRB
-> 3.1 Patches
-> 3.2 Mods
-> 3.3 Skip intro videos
-> 3.4 GemRB
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Ports
-> 8.1 Multiplayer types
-> 8.2 Ports
-> 9 Issues fixed 9.1 General 9.2 Multiplayer-specific issues 9.3 Game does not start on Windows 10 (GOG.com) 9.4 "Not enough free disk space" error followed by shut down on large capacity partitions 9.5 Assertion failed: ChDimm.cpp at line number 600
-> 9.1 General
-> 9.2 Multiplayer-specific issues
-> 9.3 Game does not start on Windows 10 (GOG.com)
-> 9.4 "Not enough free disk space" error followed by shut down on large capacity partitions
-> 9.5 Assertion failed: ChDimm.cpp at line number 600
-> 10 Other information 10.1 API 10.2 Middleware
-> 10.1 API
-> 10.2 Middleware
-> 11 System requirements
-> 12 Notes
-> 13 References
 > Icewind Dale is a singleplayer and multiplayer bird's-eye view and isometric RPG game in the Icewind Dale series.
+> Delete or rename the following files:
+> eMovWOTC.bif (Wizards of the Coast logo)
+> MVEfileL.bif (Black Isle logo)
+> MVEfile1.bif (Game introduction, contains story content)
+> Note that trying to play these disabled movies from the movie selection will crash the game.
+> Configuration file(s) location
+> The game will have problems with running with Avast! Antivirus Realtime Shield. The issue manifests in the game crashing when you try to edit your character bio or you try to import a character into a game.
+> Install outside Program Files to avoid issues with file redirection.
+> Will crash when you try to start a new game on newer operating systems, this can be fixed if you run the program as administrator.[7]
+> The game will have issues with displaying if you try to join a multiplayer game while in fullscreen mode. To get around this use Alt+↵ Enter to switch to windowed mode and back once you've successfully joined a multiplayer game.
+> On older systems like Windows XP it is important to check your network interface priority if you keep having connectivity issues when you have more than one network.
+> Ensure all players are running the same version of the game (the GOG.com version is v1.41). The game version can be found by starting a single player game and opening the main menu; the game version is then displayed in the bottom left of the screen.
