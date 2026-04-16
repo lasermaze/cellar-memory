@@ -36,24 +36,7 @@
 ### PCGamingWiki
 
 > Max Payne is a singleplayer third-person action, shooter and TPS game in the Max Payne series.
-> The game has a few issues running on Windows Vista and later, see Missing audio for more details. Also to prevent the game from locking up during startup, the unofficial startup hang patch should be applied. For users of some modern AMD and Intel processors, the game won't work by default.[3][4] See JPEG errors on modern CPUs for a fix.
-> Remove broken Adaptive Difficulty
-> Extract the contents of the download to <path-to-game>.
-> Configuration file(s) location
-> Download ThirteenAG's widescreen fix.
-> Open <path-to-game>\scripts\MaxPayne.WidescreenFix.ini with a text editor.
-> Change the FOVFactor value as desired.[Note 3]
-> Borderless fullscreen windowed
-> Go to <path-to-game> and create a file called wndmode.ini.
-> Open <path-to-game>\scripts\global.ini with a text editor.
-> Change the UseD3D8to9 value to 1.
-> Corrupted files in the French version (Steam)
-> Extract the downloaded files to <path-to-game>.
-> Replace the files when prompted.
-> Installer fails on Windows 7 64-bit and later (Retail)
-> Download the unofficial patch.
-> Extract the contents to <path-to-game>.
-> Follow the on-screen instructions.
-> Extract it to <path-to-game> and overwrite rlmfc.dll.
-> Open <path-to-game>\rlmfc.dll in a hex editor.
-> Replace 83 E0 0F with 90 90 90.
+> A patch that includes startup hang patch, ThirteenAG's Widescreen Fix, a high-res texture pack, different options for video wrappers and other fixes.
+> A patch that includes startup hang patch, ThirteenAG's Widescreen Fix, a D3D9 wrapper and other fixes. Includes Updated Classic as an optional mod.
+> Run the game with the -skipstartup parameter[9]
+> Graphics feature State WSGF Notes Widescreen resolution All resolutions reported by the graphics driver are selectable, but the 3D image and HUD are stretched when compared to 4:3. Use ThirteenAG's widescreen fix. Multi-monitor Stretched when compared to 4:3. Use ThirteenAG's widescreen fix. Ultra-widescreen Stretched when compared to 4:3. Use ThirteenAG's widescreen fix. 4K Ultra HD Stretched when compared to 4:3. Use ThirteenAG's widescreen fix. Field of view (FOV) See Field of view (FOV). Windowed Toggle with Alt+↵ Enter or use the -window parameter. Borderless fullscreen windowed See Borderless fullscreen windowed. Anisotropic filtering (AF) Toggle only. Anti-aliasing (AA) Up to 8x MSAA. High-fidelity upscaling See the glossary page for potential workarounds. Frame generation See the glossary page for potential workarounds. Vertical sync (Vsync) Double and triple buffering are available. If using Windows 10, see Vertical sync (Vsync). 60 FPS and 120+ FPS No in-game FPS limiter. High frame rate breaks physics;[12] see High frame rate.
