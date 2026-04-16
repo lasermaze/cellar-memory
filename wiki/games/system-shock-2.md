@@ -35,37 +35,30 @@
 
 ### PCGamingWiki
 
-> This page is for the original 1999 version. For the 2025 remaster, see System Shock 2: 25th Anniversary Remaster.
-> Contents
-> 1 Availability 1.1 Demo
-> 1.1 Demo
-> 2 Essential improvements 2.1 SS2Tool 2.1.1 OldDark Legacy Patch
-> 2.1 SS2Tool 2.1.1 OldDark Legacy Patch
-> 2.1.1 OldDark Legacy Patch
-> 3 Game data 3.1 Configuration file(s) location 3.2 Save game data location 3.3 Save game cloud syncing
-> 3.1 Configuration file(s) location
-> 3.2 Save game data location
-> 3.3 Save game cloud syncing
-> 4 Video 4.1 Field of view (FOV) 4.2 Windowed 4.3 Vertical sync (Vsync) 4.4 High frame rate 4.5 Disable bilinear texture filtering
-> 4.1 Field of view (FOV)
-> 4.2 Windowed
-> 4.3 Vertical sync (Vsync)
-> 4.4 High frame rate
-> 4.5 Disable bilinear texture filtering
-> 5 Input
-> 6 Audio 6.1 Localizations
-> 6.1 Localizations
-> 7 Network 7.1 Multiplayer types 7.2 Connection types 7.3 Ports
-> 7.1 Multiplayer types
-> 7.2 Connection types
-> 7.3 Ports
-> 8 VR support
-> 9 Issues fixed 9.1 Random crashing 9.2 Jerky/Uneven mouse movement 9.3 Left-clicking or dragging does not work 9.4 Small game window or black screen 9.5 UI too small on high screen resolutions 9.6 Poor performance on Mac wineskin version 9.7 Can't dive in Mac or Linux version 9.8 Cannot install on Windows NT or later
-> 9.1 Random crashing
-> 9.2 Jerky/Uneven mouse movement
-> 9.3 Left-clicking or dragging does not work
-> 9.4 Small game window or black screen
-> 9.5 UI too small on high screen resolutions
-> 9.6 Poor performance on Mac wineskin version
-> 9.7 Can't dive in Mac or Linux version
-> 9.
+> System Shock 2 is a singleplayer first-person immersive sim, shooter and RPG game in the System Shock series.
+> Configuration file(s) location
+> For retail versions, install SS2Tool.
+> Edit <path-to-game>\cam_ext.cfg.
+> Change ;fov 90 to fov # (any number).
+> Change ;force_windowed to force_windowed
+> Change ;vsync_mode 0 to vsync_mode 0
+> Change ;vsync_mode 7 to vsync_mode 7
+> Change framerate_cap 100.0 to the desired FPS cap.
+> Change ;phys_freq 60 to phys_freq 60
+> If you want more than 250 FPS, change SlowFrame 4 to ;SlowFrame 4
+> Disable bilinear texture filtering
+> Change tex_filter_mode 16 to tex_filter_mode 0.
+> Go to the installation folder.
+> Add the line use_raw_mouse_input.
+> Left-clicking or dragging does not work
+> Small game window or black screen
+> Open cam_ext.cfg using a text editor.
+> Comment out and change multisampletype 8 to ;multisampletype 8
+> Download and run the SS2Tool installer.
+> At the Choose Components installation step, enable Safe Mode.
+> Click Install and finish installing.
+> UI too small on high screen resolutions
+> Open cam_ext.cfg in a text editor.
+> Uncomment the line ;d3d_disp_scaled_2d_overlay 64 by removing the semicolon.
+> Poor performance on Mac wineskin version
+> Find the System Shock 2.app and right-click on it. Click Show Contents and run Wineskin.app. In the Screen Options, you should see a checkbox that says Use Mac Driver instead of X11. Uncheck that box and that should fix the problem. If box is already unchecked then check it instead.
