@@ -35,43 +35,6 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Demo 1.2 Version differences
-> 1.1 Demo
-> 1.2 Version differences
-> 2 Monetization 2.1 Microtransactions 2.2 DLC and expansion packs 2.3 Version differences
-> 2.1 Microtransactions
-> 2.2 DLC and expansion packs
-> 2.3 Version differences
-> 3 Essential improvements 3.1 Retail patches 3.2 Run game without CD 3.3 Mods 3.3.1 ChaosLauncher
-> 3.1 Retail patches
-> 3.2 Run game without CD
-> 3.3 Mods 3.3.1 ChaosLauncher
-> 3.3.1 ChaosLauncher
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution
-> 5.1 Widescreen resolution
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 9 Issues fixed 9.1 Corrupt graphics on Windows Vista/7 9.2 Crash in Zerg mission 8 during in-game dialogue 9.3 No sounds on Windows 10
-> 9.1 Corrupt graphics on Windows Vista/7
-> 9.2 Crash in Zerg mission 8 during in-game dialogue
-> 9.3 No sounds on Windows 10
-> 10 Other information 10.1 API 10.2 Middleware 10.3 Map editor
-> 10.1 API
-> 10.2 Middleware
-> 10.3 Map editor
-> 11 Source ports
-> 12 System requirements 12.1 Base game 12.2 For Remastered DLC
-> 12.1 Base game
-> 12.2 For Remastered DLC
-> 13 References
 > StarCraft is a sci-fi RTS game developed by Blizzard Entertainment. It offers both long singleplayer campaigns and a popular multiplayer mode.
+> Following the game's initial release in March 1998 and that of the Brood War expansion pack in December 1998, StarCraft received a very large multiplayer following, particularly in South Korea, which affected the longevity of its support cycle. The initial official support period for the game lasted until 2009 and patch 1.16.1, during which time the balancing was refined, the replay system became more reliable compared to the launch version, and new maps were added to the ladder map pool. A compatibility release, patch 1.17.0, was silently released in July 2016, but was not active on the official Battle.net servers.[1] This would end up being the final patch applicable to the retail version of the game.
+> The game was re-launched with version 1.18.0 on April 18, 2017, at which time the digital release on Battle.net became freeware in its entirety. The game was overhauled technologically, using different formats, but older methods of enabling custom resolutions no longer worked and ranked multiplayer access was locked for free users. The game was also refreshed with StarCraft: Remastered on August 14, 2017, which is in essence a paid DLC with graphics and additional campaign visuals done by Lemon Sky Studios, ranked multiplayer access, a zooming function and unlocked widescreen resolution support up to and including 4K Ultra HD.
