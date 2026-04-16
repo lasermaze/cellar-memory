@@ -36,13 +36,7 @@
 
 ### PCGamingWiki
 
-> Half-Life is a singleplayer and multiplayer FPS game in the Half-Life series developed by Valve and published by Sierra On-Line. The game uses GoldSrc, a heavily modified derivative of the Quake engine.
-> Half-Life released for Windows on November 19, 1998.[2] Ports to OS X and Linux were released on February 14, 2013.[3]
-> On November 17, 2023, to celebrate the game's 25th anniversary, an update was released which added new and previously exclusive content, as well as improving Steam Deck support.[4] The update initially broke compatibility with modifications and other GoldSrc-based Valve games, but these issues were fixed in following patches.
-> Like most of Valve's library, Half-Life still receives bug fixes and general maintenance updates. It also enjoys a large community base, and various modifications are released regularly.
-> An archive of all official patches for Half-Life and its expansions can be found on ModDB.
-> Running in 24-bit or 32-bit color depth (Retail version)
-> Configuration file(s) location
-> 4K Ultra HD (Retail/pre-25th Anniversary Update)
-> Open <path-to-game>\platform\resource\TrackerScheme.res in a text editor.
-> Under "Legacy_CreditsFont", change "tall" as desired to change the size of the in-game credits font, used for the opening credits, level titles, and tutorial prompts.
+> Use the -console or -nosierra command line argument[6][7] Notes Only works with the Retail version.
+> Use the -novid command line argument Notes Only works with the Steam version.
+> Video settings (Steam version)
+> Graphics feature State WSGF Notes Widescreen resolution Retail and pre-25th Anniversary Update Steam versions are Vert-; see Field of view (FOV) for a workaround. Use Half-Life WON Resolution FOV MP3 Patch for non-Steam versions The 25th Anniversary Update version has a setting for Hor+ called "Allow widescreen Field of View". Multi-monitor Ultra-widescreen Retail and pre-25th Anniversary Update Steam versions are Vert-. Increase FOV to compensate. See Field of view (FOV). The 25th Anniversary Update version has a setting for Hor+ called "Allow widescreen Field of View". 4K Ultra HD Both in-game and menu UI may become too small on displays with a high pixel density, see 4K Ultra HD for various fixes. The 25th Anniversary Update version provides native in-game and UI scaling for up to 4K. Field of view (FOV) 90º by default. See Field of view (FOV). Windowed Borderless fullscreen windowed Enabled by default in Steam version. Use -nofbo to disable. [9] Anisotropic filtering (AF) 16 samples by default in Steam version. Use gl_ansio X[sic] in the console, with X as number of samples. See OpenGL texture filtering to disable texture filtering altogether.The 25th Anniversary Update version provides to activate or deactivate it.
