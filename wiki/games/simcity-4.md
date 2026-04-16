@@ -35,35 +35,13 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences
-> 1.1 Version differences
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Skip intro videos 3.3 Launching game on modern systems 3.3.1 SC4Launcher 3.3.2 Large Address Aware 3.3.3 Combined launch options 3.4 NAM: Network Addon Mod 3.5 SC4Fix: Third Party Patches 3.5.1 Experiencing issues on Apple ARM devices 3.6 Save Warning
-> 3.1 Patches
-> 3.2 Skip intro videos
-> 3.3 Launching game on modern systems 3.3.1 SC4Launcher 3.3.2 Large Address Aware 3.3.3 Combined launch options
-> 3.3.1 SC4Launcher
-> 3.3.2 Large Address Aware
-> 3.3.3 Combined launch options
-> 3.4 NAM: Network Addon Mod
-> 3.5 SC4Fix: Third Party Patches 3.5.1 Experiencing issues on Apple ARM devices
-> 3.5.1 Experiencing issues on Apple ARM devices
-> 3.6 Save Warning
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution 5.2 Windowed
-> 5.1 Widescreen resolution
-> 5.2 Windowed
-> 6 Input 6.1 Remapping
-> 6.1 Remapping
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Issues unresolved 8.1 OS X and Intel CPU major flaws 8.2 Integer overflow
-> 8.1 OS X and Intel CPU major flaws
-> 8.2 Integer overflow
-> 9 Issues fixed 9.1 Crashes on multi-core systems 9.2 Poor performance on modern systems 9.3 Error message: "Could not initialize graphics card" 9.4 Details disappear when scrolling
-> 9.
+> SimCity 4 is a singleplayer bird's-eye view building and simulation game in the SimCity series.
+> The game received the Rush Hour expansion pack in September 2003, and the two products would be bundled as the Deluxe Edition in retail and digital stores. The Steam and GOG.com releases of the Deluxe Edition would receive additional compatibility tweaks, but the Origin/EA App release would use an obsolete build until June 2023, when it was synchronized with the other digital versions.[3]
+> The game was designed only with a single processor core in mind, and running on multi-core processors causes crashes unless a command line argument forcing single-core affinity is used. Additionally, the hardware renderer performs poorly on present-day systems, requiring manual hardware recognition changes or falling back to the software renderer.
+> Launching game on modern systems
+> Improves stability on systems with at least 3 GB RAM by allowing the application to use more than 2 GB RAM.
+> In the Steam Library, right-click on SimCity 4 Deluxe.
+> Type applesilicon into the beta access code field.
+> Configuration file(s) location
+> OS X and Intel CPU major flaws
+> An integer overflow bug is also present in the game. Under certain conditions, the Junior Sports Program and Parks and Recreation expense items will be a negative value - thus adding to the end of month balance instead of reducing it.
