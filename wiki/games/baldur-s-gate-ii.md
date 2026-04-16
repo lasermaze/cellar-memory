@@ -36,37 +36,19 @@
 ### PCGamingWiki
 
 > For the Enhanced Edition released in 2013, see Baldur's Gate II: Enhanced Edition.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Skip intro videos 3.3 Baldur's Gate II Fixpack 3.4 GemRB
-> 3.1 Patches
-> 3.2 Skip intro videos
-> 3.3 Baldur's Gate II Fixpack
-> 3.4 GemRB
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 9 Issues fixed 9.1 Assertion Failed 9.2 Screen flickering 9.3 "Not enough free disk space" error followed by shut down on large capacity partitions
-> 9.1 Assertion Failed
-> 9.2 Screen flickering
-> 9.3 "Not enough free disk space" error followed by shut down on large capacity partitions
-> 10 Other information 10.1 API 10.2 Middleware 10.3 Modifications
-> 10.1 API
-> 10.2 Middleware
-> 10.3 Modifications
-> 11 System requirements
-> 12 Notes
-> 13 References
 > Baldur's Gate II: Shadows of Amn is a singleplayer and multiplayer bird's-eye view and isometric RPG game in the Baldur's Gate series.
+> Go to <path-to-game>\data\Movies.
+> Configuration file(s) location
+> Open baldur.ini, and check the [alias] section
+> Change the installation folders to match the installation directory, and save changes
+> If it still fails, it should be corrected on a reinstall.
+> Go to Manage 3D Settings (from the list on the left side) in Nvidia Control Panel.
+> Select Program Settings Tab on the right window.
+> Manually disable v-sync and triple buffering.
+> "Not enough free disk space" error followed by shut down on large capacity partitions
+> Download custom compatibility fix from here.
+> Either use command line to install the compatibility file or run the batch file as an administrator to do it automatically.
+> ↑ 1.0 1.1 When running this game without elevated privileges (Run as administrator option), write operations against a location below %PROGRAMFILES%, %PROGRAMDATA%, or %WINDIR% might be redirected to %LOCALAPPDATA%\VirtualStore on Windows Vista and later (more details).
+> ↑ Update: 60% / 85% off Enhanced Editions: Baldur's Gate I & II, Icewind Dale Original & Enhanced to become the Definitive Edition Bundle - GOG.com - last accessed on May 2023
+> ↑ Bladur's Gate II sera A3D 2 - HardWare.fr - last accessed on May 2023
+> ↑ EAX® to EAX® 4.0 ADVANCED HD™ - SoundBlaster.
