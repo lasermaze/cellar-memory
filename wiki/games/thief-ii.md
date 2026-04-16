@@ -35,37 +35,22 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Demo
-> 1.1 Demo
-> 2 Essential improvements 2.1 Unofficial Patches 2.1.1 NewDark 2.1.2 T2Fix 2.1.3 OldDark Legacy Patch 2.2 Skip intro videos 2.3 Scale UI accurately
-> 2.1 Unofficial Patches 2.1.1 NewDark 2.1.2 T2Fix 2.1.3 OldDark Legacy Patch
-> 2.1.1 NewDark
-> 2.1.2 T2Fix
-> 2.1.3 OldDark Legacy Patch
-> 2.2 Skip intro videos
-> 2.3 Scale UI accurately
-> 3 Game data 3.1 Configuration file(s) location 3.2 Save game data location 3.3 Save game cloud syncing
-> 3.1 Configuration file(s) location
-> 3.2 Save game data location
-> 3.3 Save game cloud syncing
-> 4 Video 4.1 Field of view (FOV) 4.2 Windowed 4.3 Vertical sync (Vsync) 4.4 High frame rate
-> 4.1 Field of view (FOV)
-> 4.2 Windowed
-> 4.3 Vertical sync (Vsync)
-> 4.4 High frame rate
-> 5 Input
-> 6 Audio 6.1 Localizations
-> 6.1 Localizations
-> 7 Network 7.1 Multiplayer types 7.2 Connection types
-> 7.1 Multiplayer types
-> 7.2 Connection types
-> 8 VR support
-> 9 Issues fixed 9.1 Crashes on multi-core systems 9.2 Videos do not play 9.3 Gamma slider has no effect on gamma/brightness 9.4 Lag and stuttering 9.5 Laggy/jittery mouse input 9.6 The game asks for the CD even if it is inserted or mounted
-> 9.1 Crashes on multi-core systems
-> 9.2 Videos do not play
-> 9.3 Gamma slider has no effect on gamma/brightness
-> 9.4 Lag and stuttering
-> 9.5 Laggy/jittery mouse input
-> 9.6 The game asks for the CD even if it is inserted or mounted
-> 10 Other information 10.1 API 10.2 Middleware 10.3 View bob 10.4 Mods 10.4.1 AngelLoader 10.4.2 Dark Save Manager 10.4.3 Fan Missions 10.4.
+> Thief II: The Metal Age is a singleplayer first-person stealth and immersive sim game in the Thief series.
+> The game was the final title by Looking Glass Studios, as the studio would shut down a mere two months after release.
+> The retail version of the game has significant issues running out-of-the-box (e.g. stability, rendering, cutscene codec breaking after a few sessions). Several unofficial patches have been created over the years, most notably the NewDark engine patch and T2Fix.
+> NewDark is a fan-developed update to the Dark Engine that lets Thief 2: The Metal Age run on modern systems.
+> T2Fix is an "upgrade" patch that updates the game with NewDark which improves compatibility on modern systems, alongside other features.
+> Open <path-to-game>\cam.cfg using a text editor.
+> Add the line skip_intro to the file and save it.
+> Open <path-to-game>\cam_ext.cfg using a text editor.
+> Change ;d3d_disp_scaled_2d_overlay 64 to d3d_disp_scaled_2d_overlay 64.
+> Configuration file(s) location
+> Install NewDark and set the desired resolution in-game.
+> If the proper FOV is not detected, edit it in <path-to-game>\cam_ext.cfg.
+> Change ;fov 90 to fov ## with the desired FOV.
+> Save the changes and relaunch the game.
+> Open <path-to-game>\cam_ext.cfg.
+> Change ;force_windowed to force_windowed.
+> Save the changes and set the chosen resolution in-game.
+> Change ;vsync_mode 0 to vsync_mode 0 and save the changes.
+> Change framerate_cap 100.0 to framerate_cap ### with the desired framerate.
