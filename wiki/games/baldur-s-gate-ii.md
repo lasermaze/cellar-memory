@@ -36,19 +36,6 @@
 ### PCGamingWiki
 
 > For the Enhanced Edition released in 2013, see Baldur's Gate II: Enhanced Edition.
-> Baldur's Gate II: Shadows of Amn is a singleplayer and multiplayer bird's-eye view and isometric RPG game in the Baldur's Gate series.
-> Go to <path-to-game>\data\Movies.
-> Configuration file(s) location
-> Open baldur.ini, and check the [alias] section
-> Change the installation folders to match the installation directory, and save changes
-> If it still fails, it should be corrected on a reinstall.
-> Go to Manage 3D Settings (from the list on the left side) in Nvidia Control Panel.
-> Select Program Settings Tab on the right window.
-> Manually disable v-sync and triple buffering.
-> "Not enough free disk space" error followed by shut down on large capacity partitions
-> Download custom compatibility fix from here.
-> Either use command line to install the compatibility file or run the batch file as an administrator to do it automatically.
-> ↑ 1.0 1.1 When running this game without elevated privileges (Run as administrator option), write operations against a location below %PROGRAMFILES%, %PROGRAMDATA%, or %WINDIR% might be redirected to %LOCALAPPDATA%\VirtualStore on Windows Vista and later (more details).
-> ↑ Update: 60% / 85% off Enhanced Editions: Baldur's Gate I & II, Icewind Dale Original & Enhanced to become the Definitive Edition Bundle - GOG.com - last accessed on May 2023
-> ↑ Bladur's Gate II sera A3D 2 - HardWare.fr - last accessed on May 2023
-> ↑ EAX® to EAX® 4.0 ADVANCED HD™ - SoundBlaster.
+> Delete/rename Movies.bif[citation needed] Go to <path-to-game>\data\Movies. Delete or rename Movies.bif.
+> The BG2 Fixpack is a WeiDU compilation of fixes for Baldur's Gate II. Several modders began working on a new WeiDU fixpack to address the numerous bugs that have been identified. Fixpack currently includes all of the fixes addressed by Baldurdash (including the Game Text Update) and several hundred new bugfixes. The project is ongoing.
+> Graphics feature State WSGF Notes Widescreen resolution Use Widescreen Mod. Multi-monitor Use Widescreen Mod. Ultra-widescreen 4K Ultra HD Field of view (FOV) Windowed Borderless fullscreen windowed See the glossary page for potential workarounds. Anisotropic filtering (AF) Anti-aliasing (AA) Vertical sync (Vsync) Causes screen flickering on Nvidia cards, see Screen flickering. 60 FPS and 120+ FPS Frame rate is capped at 30 FPS by default. Frame rate can be customized in the game's .ini file up to 60 FPS; however, frame rate is tied directly to the game's clock and changing it will change the game speed. High dynamic range display (HDR) See the glossary page for potential alternatives. Ray tracing (RT) Color blind mode See the glossary page for potential alternatives.
