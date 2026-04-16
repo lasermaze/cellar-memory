@@ -35,33 +35,11 @@
 
 ### PCGamingWiki
 
-> This page is for the original release. For the 2021 remaster, see Diablo II: Resurrected.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo versions
-> 1.1 Version differences
-> 1.2 Demo versions
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Official patches 3.2 D2DX 3.3 Peixoto's patch 3.3.1 High resolution patch compatibility 3.4 Run game without CD 3.5 Skip intro videos
-> 3.1 Official patches
-> 3.2 D2DX
-> 3.3 Peixoto's patch 3.3.1 High resolution patch compatibility
-> 3.3.1 High resolution patch compatibility
-> 3.4 Run game without CD
-> 3.5 Skip intro videos
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Battle.net save files
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Battle.net save files
-> 5 Video 5.1 Widescreen resolution
-> 5.1 Widescreen resolution
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 9 VR support
-> 10 Issues fixed 10.1 Graphical glitches and/or slowdowns in full screen mode 10.2 Colorization problems Windows Vista and newer 10.3 Better performance with Glide wrapper 10.3.1 Additional useful Sven's Glide Wrapper settings 10.4 Battle.net Verify Error 10.5 Unhandled Exception: Access Violation (c000005) Error 10.6 Mouse lag/low frame rate in singleplayer 10.7 Battle.net accounts 10.8 Cannot detect a valid TCP/IP address
-> 10.
+> Diablo II is a singleplayer and multiplayer bird's-eye view and isometric ARPG game in the Diablo series.
+> The game received the Lord of Destruction expansion pack in June 2001. Like prior Blizzard games, both titles were supported simultaneously. The initial support cycle lasted until October 2011 with patch 1.13d, during which time the disc check was removed (supposing an official workaround is used), many bugs were fixed and balancing was refined. Four additional compatibility patches were published between March and June 2016, the latest being 1.14d.
+> The game was succeeded by Diablo II: Resurrected September 2021, but the original 2000 version with the latest patch is still available for sale on Battle.net. Running this version on present-day systems does not cause major issues, but unofficial methods are needed for modern quality-of-life improvements like widescreen resolution unless running Resurrected.
+> The game updates automatically when connecting to Battle.net, though it is still possible to download and apply patches manually. Older patch versions can be found at soggi.org (see table below).
+> Install the Diablo II patch only if Lord of Destruction is not installed.
+> For older copies of the game, do the following:
+> Perform a "full" installation (not a minimal install) of Diablo II (and Lord of Destruction if applicable).
+> Copy all .MPQ files from the Diablo II (and LoD, if applicable) discs to <path-to-game>. Ignore any files that already exist.
