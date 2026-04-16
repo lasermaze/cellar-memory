@@ -35,38 +35,20 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Windows 11 crash fix 3.3 Unofficial patches 3.4 PRACX
-> 3.1 Patches
-> 3.2 Windows 11 crash fix
-> 3.3 Unofficial patches
-> 3.4 PRACX
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Widescreen resolution
-> 5.1 Widescreen resolution
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 9 Issues fixed 9.1 The game hangs 9.2 AMD/ATI compatibility 9.3 Alt-Tab not functioning 9.4 Windows 11 24H2: Alien Crossfire crashes at game start / has ran out of virtual memory / sea levels are rising on ever turn
-> 9.1 The game hangs
-> 9.2 AMD/ATI compatibility
-> 9.3 Alt-Tab not functioning
-> 9.4 Windows 11 24H2: Alien Crossfire crashes at game start / has ran out of virtual memory / sea levels are rising on ever turn
-> 10 Other information 10.1 API
-> 10.1 API
-> 11 Modifications 11.1 smac-in-smax 11.2 SMACX Thinker Mod 11.3 SMACX AI Growth mod 11.4 Glsmac
-> 11.1 smac-in-smax
-> 11.2 SMACX Thinker Mod
-> 11.3 SMACX AI Growth mod
-> 11.
+> Sid Meier's Alpha Centauri is a singleplayer and multiplayer bird's-eye view and isometric 4X and TBS game.
+> The game received the Alien Crossfire expansion in October 1999, and the two were bundled in the Planetary Pack compilation in April 2000.
+> On modern systems, the game suffers from compatibility issues, which can be alleviated by using PRACX for stable rendering and widescreen/windowed mode support. The unofficial patches also bring numerous fixes for gameplay itself.
+> Recommendation Install Yitzi's patch for SMAX and either kyrub's or scient's for SMAC.
+> Configuration file(s) location
+> Go to the installation folder.
+> Add DirectDraw=0 under [Alpha Centauri]
+> The game will now run at the desktop's resolution
+> The GOG.com store page recommends using Catalyst 13.4 or earlier, but the game also works with 14.x.[citation needed]
+> Open a command prompt as administrator.
+> If problems occur by removing the shim, it can be restored with sdbinst goggame.sdb using the similar process.
+> Windows 11 24H2: Alien Crossfire crashes at game start / has ran out of virtual memory / sea levels are rising on ever turn
+> Allows the installations of mods for the game.
+> Download the latest non-Python version of the program here.[dead download link]
+> Extract the content of the archive to an easily accessible folder (not to the <path-to-game>)
+> Go to options tab and <path-to-game>. Allow the mod manager to make a backup.
+> Put mods into the mods directory.
