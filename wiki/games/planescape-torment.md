@@ -35,36 +35,16 @@
 
 ### PCGamingWiki
 
-> This page is for the original release. For the remastered edition, see Planescape: Torment Enhanced Edition.
-> Contents
-> 1 Availability
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.2 Peixoto's patch 3.3 Mods 3.4 Skip intro videos 3.5 GemRB
-> 3.1 Patches
-> 3.2 Peixoto's patch
-> 3.3 Mods
-> 3.4 Skip intro videos
-> 3.5 GemRB
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Windowed 5.2 60 FPS
-> 5.1 Windowed
-> 5.2 60 FPS
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Issues fixed 8.1 Slowdowns and stuttering 8.2 "Not enough free disk space" error followed by shut down on large capacity partitions 8.3 Spell effects cause artifacting and performance issues 8.4 Characters are walking backwards 8.5 Assertion Failed on Startup
-> 8.1 Slowdowns and stuttering
-> 8.2 "Not enough free disk space" error followed by shut down on large capacity partitions
-> 8.3 Spell effects cause artifacting and performance issues
-> 8.4 Characters are walking backwards
-> 8.5 Assertion Failed on Startup
-> 9 Other information 9.1 API
-> 9.1 API
-> 10 System requirements
-> 11 Notes
-> 12 References
 > Planescape: Torment is a singleplayer bird's-eye view and isometric RPG game in the Planescape: Torment series.
+> There are several recommended mods containing bug fixes, widescreen support, restoration of cut content and tweaks to some of the more annoying aspects of the game (such as the hit-points per level being constant instead of completely random). It is recommended that you follow this guide, as the mods require that you install them in a certain order. GOG.com version users can skip to step 3a.
+> Delete, move or rename the following file: genmovB.bif.
+> Configuration file(s) location
+> Go to the configuration file(s) location.
+> Find Full Screen=1 and change it to Full Screen=0.
+> Add Torment.exe to list of DxWnd applications, and open its properties.
+> Under the Main tab, set window size to W=640 H=480 (integer multiples allowed), and check "Terminate on window close".
+> (Optional) Under the Mouse tab, check "Keep cursor within window".
+> Under the DirectX tab, Enable "Compensate Flip Emulation".
+> Find Maximum Frame Rate and change the value to 60.
+> Install unofficial patch (DDraw Fix).
+> If the patch causes cursor trails to appear, open setup-pst-drawfix.tp2 with a text editor and delete the following lines: PATCH_IF( offset !
