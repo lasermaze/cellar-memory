@@ -35,16 +35,7 @@
 
 ### PCGamingWiki
 
-> Icewind Dale is a singleplayer and multiplayer bird's-eye view and isometric RPG game in the Icewind Dale series.
-> Delete or rename the following files:
-> eMovWOTC.bif (Wizards of the Coast logo)
-> MVEfileL.bif (Black Isle logo)
-> MVEfile1.bif (Game introduction, contains story content)
-> Note that trying to play these disabled movies from the movie selection will crash the game.
-> Configuration file(s) location
-> The game will have problems with running with Avast! Antivirus Realtime Shield. The issue manifests in the game crashing when you try to edit your character bio or you try to import a character into a game.
-> Install outside Program Files to avoid issues with file redirection.
-> Will crash when you try to start a new game on newer operating systems, this can be fixed if you run the program as administrator.[7]
-> The game will have issues with displaying if you try to join a multiplayer game while in fullscreen mode. To get around this use Alt+↵ Enter to switch to windowed mode and back once you've successfully joined a multiplayer game.
-> On older systems like Windows XP it is important to check your network interface priority if you keep having connectivity issues when you have more than one network.
-> Ensure all players are running the same version of the game (the GOG.com version is v1.41). The game version can be found by starting a single player game and opening the main menu; the game version is then displayed in the bottom left of the screen.
+> Delete/rename video files Go to <path-to-game>\Data Delete or rename the following files: eMovWOTC.bif (Wizards of the Coast logo) MVEfileL.bif (Black Isle logo) MVEfile1.bif (Game introduction, contains story content) Note that trying to play these disabled movies from the movie selection will crash the game.
+> Config utility video settings.
+> Graphics feature State WSGF Notes Widescreen resolution Use Widescreen Mod. Multi-monitor Use Widescreen Mod. Ultra-widescreen Use Widescreen Mod. 4K Ultra HD Field of view (FOV) Windowed Borderless fullscreen windowed Anisotropic filtering (AF) See the glossary page for potential workarounds. Anti-aliasing (AA) See the glossary page for potential workarounds. Vertical sync (Vsync) See the glossary page for potential workarounds. 60 FPS and 120+ FPS 30 FPS default cap. Frame rate is tied directly to the game's clock and changing it will change the game speed. High dynamic range display (HDR) See the glossary page for potential alternatives. Ray tracing (RT) Color blind mode See the glossary page for potential alternatives.
+> Config utility keyboard settings.
