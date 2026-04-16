@@ -36,14 +36,8 @@
 ### PCGamingWiki
 
 > Dungeon Keeper 2 is a singleplayer and multiplayer bird's-eye view and first-person building and RTS game in the Dungeon Keeper series.
-> The game received multiple official patches after release, the last two of which included new creatures, but inadvertently broke the enemy AI and creature spawns in some levels.
-> On modern systems, the game requires the General Improvement Mod (GIM) and the level fix to reduce compatibility issues and bugs.
-> Flame is an unofficial patch based on a community driven decompilation of the game. It features improved compatibility with modern Windows versions and overall stability, fixes a plethora of bugs (including version specific bugs), and adds support for mouse wheel controls, widescreen, windowed mode, and a much wider selection of resolutions. It also adds better modding support, the ability to tweak GOG-exclusive fixes, a custom launcher with more settings than officially offered.
-> Unzip it into <path-to-game> and overwrite existing files.
-> Go to <path-to-game>\Data\Movies.
-> Delete or rename the following files: BullfrogIntro.tgq, INTRO.TGQ.
-> Configuration file(s) location
-> Open the Registry Editor and browse to HKEY_CURRENT_USER\Software\Bullfrog Productions Ltd\Dungeon Keeper II\Configuration\Video. If the \Configuration\Video key path does not exist, create it manually.
-> Change the Screen Height and Screen Width string values to the desired resolution (decimal base).
-> Use SBS by default, or with direct_mode=sbs.[5]
-> For TAB set direct_mode = tab.
+> GOG version quick configuration - instructions on changing game resolution, enabling extra graphical options (EMBM, Sine Wave Waters), command line arguments, editing config.ini, restoring EAX audio option, optional alternative DirectX wrapper (dgVoodoo 2). Made mostly outdated by Flame.
+> Version 1.7 (including digital releases) has an issue where some creatures do not enter the player dungeon. For example, Dark Angels can not be attracted during the campaign.
+> Apply this fix[citation needed] Navigate to <path-to-game>. Download this fix. Unzip it into <path-to-game> and overwrite existing files.
+> Instructions[citation needed] Go to <path-to-game>\Data\Movies. Delete or rename the following files: BullfrogIntro.tgq, INTRO.TGQ.
+> Graphics feature State WSGF Notes Widescreen resolution See Widescreen resolution. Multi-monitor Ultra-widescreen The game crashes at resolutions beyond 1920x1080.[citation needed] 4K Ultra HD Field of view (FOV) Windowed See the glossary page for potential workarounds. Borderless fullscreen windowed See the glossary page for potential workarounds. Anisotropic filtering (AF) See the glossary page for potential workarounds. Anti-aliasing (AA) See the glossary page for potential workarounds. High-fidelity upscaling See the glossary page for potential workarounds.
