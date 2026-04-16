@@ -35,34 +35,23 @@
 
 ### PCGamingWiki
 
-> This page is for the original game. For the reboot, see Unreal Tournament 4.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demos
-> 1.1 Version differences
-> 1.2 Demos
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Patches 3.1.1 Official 3.1.2 Unofficial 3.1.3 Official bonus content 3.2 Increase system memory for game
-> 3.1 Patches 3.1.1 Official 3.1.2 Unofficial 3.1.3 Official bonus content
-> 3.1.1 Official
-> 3.1.2 Unofficial
-> 3.1.3 Official bonus content
-> 3.2 Increase system memory for game
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Field of view (FOV)
-> 5.1 Field of view (FOV)
-> 6 Input 6.1 Full controller support
-> 6.1 Full controller support
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 9 Issues fixed 9.1 Windows 9.1.1 Crash when starting 9.1.2 Can't install UMOD files 9.1.3 Restore 3D sound 9.1.4 Brightness slider not working 9.1.5 Low frame rate on Windows 10 9.2 Linux 9.2.1 No sound 9.2.2 The game runs too fast 9.2.3 Issues joining the UTPG version of the server
-> 9.1 Windows 9.1.1 Crash when starting 9.1.2 Can't install UMOD files 9.1.3 Restore 3D sound 9.1.4 Brightness slider not working 9.1.5 Low frame rate on Windows 10
-> 9.1.1 Crash when starting
-> 9.1.
+> Unreal Tournament is a singleplayer and multiplayer first-person action, FPS and shooter game in the Unreal series.
+> A list of all official patches can be found at www.oldunreal.com.
+> The latest official v436 Patch is available at www.oldunreal.com and at soggi.org.
+> The official Updated OpenGL Renderer is available at soggi.org.
+> OldUnreal's Unreal Tournament 99 patches (approved by Epic Games)
+> Unreal Tournament OS X GOTY for Mac.
+> Official Bonus Pack #1, The Epic Pack - Three new models, a package containing six related mutators, and 11 maps. Included in the GOTY edition, also available from PCGW Community and at soggi.org.
+> Official Bonus Pack #2, The Digital Extremes Pack - Three new mutators and two maps. Included in the GOTY edition, also available from PCGW Community and at soggi.org.
+> Official Bonus Pack #3, The Inoxx Pack - Two texture packs and six maps. Included in the GOTY edition, also available from PCGW Community and at soggi.org.
+> Official Bonus Pack #4, The Christmas 2000 Pack - Two new models, two texture packs and twelve new maps. It is available from PCGW Community and at soggi.org.
+> Increase system memory for game
+> Go to the configuration file location.
+> Find the line CacheSizeMegs, set it to higher values like 64 or 128.
+> Save and exit the text editor.
+> Configuration file(s) location
+> Go to the configuration file(s) location.
+> Find the lines DesiredFOV and DefaultFOV.
+> Set the values to desired ones.
+> Go to the configuration files location.
+> Open user.
