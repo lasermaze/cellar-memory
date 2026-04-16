@@ -36,33 +36,13 @@
 
 ### PCGamingWiki
 
-> This page is for the original game. For the Source engine port, see Half-Life: Source. For the unofficial remake, see Black Mesa.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demos 1.2.1 Day One 1.2.2 Uplink
-> 1.1 Version differences
-> 1.2 Demos 1.2.1 Day One 1.2.2 Uplink
-> 1.2.1 Day One
-> 1.2.2 Uplink
-> 2 Monetization
-> 3 Essential improvements 3.1 Official retail patches 3.2 Skip intro videos 3.3 Running in 24-bit or 32-bit color depth (Retail version)
-> 3.1 Official retail patches
-> 3.2 Skip intro videos
-> 3.3 Running in 24-bit or 32-bit color depth (Retail version)
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 4K Ultra HD (Retail/pre-25th Anniversary Update) 5.2 Field of view (FOV) 5.3 High frame rate 5.4 OpenGL texture filtering (Retail/pre-25th Anniversary Update) 5.5 OpenGL overbright lighting (Retail/pre-25th Anniversary Update)
-> 5.1 4K Ultra HD (Retail/pre-25th Anniversary Update)
-> 5.2 Field of view (FOV)
-> 5.3 High frame rate
-> 5.4 OpenGL texture filtering (Retail/pre-25th Anniversary Update)
-> 5.5 OpenGL overbright lighting (Retail/pre-25th Anniversary Update)
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Ports 8.4 Restoring Online Play on Retail CD Versions
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Ports
-> 8.
+> Half-Life is a singleplayer and multiplayer FPS game in the Half-Life series developed by Valve and published by Sierra On-Line. The game uses GoldSrc, a heavily modified derivative of the Quake engine.
+> Half-Life released for Windows on November 19, 1998.[2] Ports to OS X and Linux were released on February 14, 2013.[3]
+> On November 17, 2023, to celebrate the game's 25th anniversary, an update was released which added new and previously exclusive content, as well as improving Steam Deck support.[4] The update initially broke compatibility with modifications and other GoldSrc-based Valve games, but these issues were fixed in following patches.
+> Like most of Valve's library, Half-Life still receives bug fixes and general maintenance updates. It also enjoys a large community base, and various modifications are released regularly.
+> An archive of all official patches for Half-Life and its expansions can be found on ModDB.
+> Running in 24-bit or 32-bit color depth (Retail version)
+> Configuration file(s) location
+> 4K Ultra HD (Retail/pre-25th Anniversary Update)
+> Open <path-to-game>\platform\resource\TrackerScheme.res in a text editor.
+> Under "Legacy_CreditsFont", change "tall" as desired to change the size of the in-game credits font, used for the opening credits, level titles, and tutorial prompts.
