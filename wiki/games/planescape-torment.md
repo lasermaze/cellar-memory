@@ -35,16 +35,7 @@
 
 ### PCGamingWiki
 
-> Planescape: Torment is a singleplayer bird's-eye view and isometric RPG game in the Planescape: Torment series.
-> There are several recommended mods containing bug fixes, widescreen support, restoration of cut content and tweaks to some of the more annoying aspects of the game (such as the hit-points per level being constant instead of completely random). It is recommended that you follow this guide, as the mods require that you install them in a certain order. GOG.com version users can skip to step 3a.
-> Delete, move or rename the following file: genmovB.bif.
-> Configuration file(s) location
-> Go to the configuration file(s) location.
-> Find Full Screen=1 and change it to Full Screen=0.
-> Add Torment.exe to list of DxWnd applications, and open its properties.
-> Under the Main tab, set window size to W=640 H=480 (integer multiples allowed), and check "Terminate on window close".
-> (Optional) Under the Mouse tab, check "Keep cursor within window".
-> Under the DirectX tab, Enable "Compensate Flip Emulation".
-> Find Maximum Frame Rate and change the value to 60.
-> Install unofficial patch (DDraw Fix).
-> If the patch causes cursor trails to appear, open setup-pst-drawfix.tp2 with a text editor and delete the following lines: PATCH_IF( offset !
+> Delete, move or rename[3] Go to <path-to-game>\data Delete, move or rename the following file: genmovB.bif.
+> Graphics feature State WSGF Notes Widescreen resolution Use widescreen mod Multi-monitor Ultra-widescreen Use widescreen mod 4K Ultra HD Use widescreen mod. Game elements will be too small or zoomed out at very high resolutions, even with UI Mod. Field of view (FOV) Windowed See Windowed. Borderless fullscreen windowed See the glossary page for potential workarounds. Anisotropic filtering (AF) 2D game. Anti-aliasing (AA) See the glossary page for potential workarounds. Vertical sync (Vsync) See the glossary page for potential workarounds. 60 FPS 30 FPS default cap (40 for GOG.com). See 60 FPS. 120+ FPS Higher frame rates will make the game run too fast. High dynamic range display (HDR) Ray tracing (RT) Color blind mode See the glossary page for potential alternatives.
+> Keyboard and mouse State Notes Remapping Mouse sensitivity Mouse acceleration Mouse input in menus Keyboard and mouse prompts Mouse Y-axis inversion Controller Controller support
+> Audio feature State Notes Separate volume controls Ambient, Sound FX, Voice, Music and Movie. Surround sound 5.1[5] Subtitles Most dialogues are text-based. Non-dialogue speech may be offscreen, or may be audio only (e.g. Morte saying we're being watched and to look casual.
