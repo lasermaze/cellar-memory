@@ -35,46 +35,18 @@
 
 ### PCGamingWiki
 
-> Contents
-> 1 Availability 1.1 Demo
-> 1.1 Demo
-> 2 Essential improvements 2.1 Patches 2.2 Skip intro videos 2.3 Julius / Augustus
-> 2.1 Patches
-> 2.2 Skip intro videos
-> 2.3 Julius / Augustus
-> 3 Game data 3.1 Configuration file(s) location 3.2 Save game data location 3.3 Save game cloud syncing
-> 3.1 Configuration file(s) location
-> 3.2 Save game data location
-> 3.3 Save game cloud syncing
-> 4 Video 4.1 Windowed
-> 4.1 Windowed
-> 5 Input
-> 6 Audio 6.1 Localizations
-> 6.1 Localizations
-> 7 Issues fixed 7.1 Installation issues 7.2 Steam overlay not working 7.3 Music loops and narration repeats
-> 7.1 Installation issues
-> 7.2 Steam overlay not working
-> 7.3 Music loops and narration repeats
-> 8 Other information 8.1 API 8.2 Middleware
-> 8.1 API
-> 8.2 Middleware
-> 9 System requirements
-> 10 Notes
-> 11 References
 > Caesar III is a singleplayer bird's-eye view and isometric building game in the Caesar series.
-> General information
-> Availability
-> Demo
-> Essential improvements
-> Patches
-> Skip intro videos
-> Go to <path-to-game>\smk
 > Move, delete or rename CREDITS.SMK, intro.smk, and Logo.smk
-> Julius / Augustus
-> Game data
 > Configuration file(s) location
-> Save game data location
-> Save game cloud syncing
-> Video
-> Windowed
-> To play the game in Windowed mode, you have to run the game in 16-bit colour. For Windows 8 and newer, enable the following compatibility setting for the C3.exe file: Reduced color mode (16-bit color). For Windows Vista and 7, change the colour mode through the Screen resolution settings in the Control Panel.
+> To play the game in Windowed mode, you have to run the game in 16-bit colour. For Windows 8 and newer, enable the following compatibility setting for the C3.exe file: Reduced color mode (16-bit color). For Windows Vista and 7, change the colour mode through the Screen resolution settings in the Control Panel. For Windows XP, change the colour mode through the Display settings in the Control Panel.
+> For Windows 8 and newer, enable the following compatibility setting for the C3.exe file: Reduced color mode (16-bit color).
+> For Windows Vista and 7, change the colour mode through the Screen resolution settings in the Control Panel.
+> For Windows XP, change the colour mode through the Display settings in the Control Panel.
+> Extract dgVoodooCpl.exe and \MS\x86\ddraw.dll to <path-to-game>.
+> Download latest release version and unpack the archive.
+> Rename julius.exe to c3.exe and copy all files to <path-to-game>.
+> Steam overlay will now work without any problems.
+> Music loops and narration repeats
+> Download the latest version of IndirectSound
+> Extract dsound.dll and dsound.ini from the ZIP file to <path-to-game>.
+> ↑ 1.0 1.
