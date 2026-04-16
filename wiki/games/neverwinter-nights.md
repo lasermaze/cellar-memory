@@ -35,32 +35,22 @@
 
 ### PCGamingWiki
 
-> This page is for the 2002 game. For its enhanced edition, see Neverwinter Nights: Enhanced Edition. For the 1991 game, see Neverwinter Nights (1991). For the 2013 game, see Neverwinter.
-> Contents
-> 1 Availability 1.1 Version differences 1.2 Demo
-> 1.1 Version differences
-> 1.2 Demo
-> 2 Monetization 2.1 DLC and expansion packs
-> 2.1 DLC and expansion packs
-> 3 Essential improvements 3.1 Skip intro videos 3.2 Patches 3.2.1 NWN Critical Rebuild 1.69 3.2.2 NWN Community Patch 1.72 3.2.3 Community Enhancement Pack
-> 3.1 Skip intro videos
-> 3.2 Patches 3.2.1 NWN Critical Rebuild 1.69 3.2.2 NWN Community Patch 1.72 3.2.3 Community Enhancement Pack
-> 3.2.1 NWN Critical Rebuild 1.69
-> 3.2.2 NWN Community Patch 1.72
-> 3.2.3 Community Enhancement Pack
-> 4 Game data 4.1 Configuration file(s) location 4.2 Save game data location 4.3 Save game cloud syncing
-> 4.1 Configuration file(s) location
-> 4.2 Save game data location
-> 4.3 Save game cloud syncing
-> 5 Video 5.1 Windowed
-> 5.1 Windowed
-> 6 Input
-> 7 Audio 7.1 Localizations
-> 7.1 Localizations
-> 8 Network 8.1 Multiplayer types 8.2 Connection types 8.3 Online play
-> 8.1 Multiplayer types
-> 8.2 Connection types
-> 8.3 Online play
-> 9 VR support
-> 10 Issues fixed 10.1 Crash on start 10.2 Multiplayer with the GOG.com version 10.3 Videos do not play, or only sound is played 10.4 Issues with dual-core or multi-core processors 10.5 Nvidia-specific issues 10.6 AMD/ATI-specific issues 10.7 Other general performance issues 10.8 Cannot download Premium Modules 10.8.1 Direct links
-> 10.
+> Neverwinter Nights is a singleplayer and multiplayer bird's-eye view RPG game in the Neverwinter Nights series.
+> Premium Modules from the BioWare Store required an Internet connection at launch[2], however the authentication server has been shut down as of 2011; Use Premium Module Offline Authenticator Generator. Diamond Edition and Enhanced Edition modules do not require this.
+> Add the line Disable Intro Movies=1.
+> Save the changes and close the file.
+> Configuration file(s) location
+> Make a new line and enter AllowWindowedMode=1.
+> Patch 1.69, download (More info);
+> Module "Eye of Beholder", download (More info);
+> Official mods: Ajedrez, Catapultas, Magos de Guerra, Los Vientos de Eremor, Batalla Naval, Competición de Campeones, El Tesoro del Explorador Oscuro;
+> Other Mods: NeverEnding Quest, Fellowship of The Ring.
+> The GameSpy master server is offline.[10] Alternatives:
+> Enhanced Edition has a updated multiplayer master server.
+> Servers can also be connected to manually using the Direct Connect button. These websites list public servers:[12]
+> NWNList Scry (choose NWN1 at the top of the page)
+> Neverwinter Nights Server Lists Forum
+> Multiplayer with the GOG.com version
+> Open <path-to-game>\SerialTool.exe.
+> Follow the steps to replace the default product keys with the unique ones listed on the My Account page.
+> Run the "premium modules re-installer" from the My Games bonus content to restore access to the premium modules.
