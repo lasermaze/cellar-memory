@@ -36,19 +36,6 @@
 ### PCGamingWiki
 
 > Sid Meier's Alpha Centauri is a singleplayer and multiplayer bird's-eye view and isometric 4X and TBS game.
-> The game received the Alien Crossfire expansion in October 1999, and the two were bundled in the Planetary Pack compilation in April 2000.
-> On modern systems, the game suffers from compatibility issues, which can be alleviated by using PRACX for stable rendering and widescreen/windowed mode support. The unofficial patches also bring numerous fixes for gameplay itself.
-> Recommendation Install Yitzi's patch for SMAX and either kyrub's or scient's for SMAC.
-> Configuration file(s) location
-> Go to the installation folder.
-> Add DirectDraw=0 under [Alpha Centauri]
-> The game will now run at the desktop's resolution
-> The GOG.com store page recommends using Catalyst 13.4 or earlier, but the game also works with 14.x.[citation needed]
-> Open a command prompt as administrator.
-> If problems occur by removing the shim, it can be restored with sdbinst goggame.sdb using the similar process.
-> Windows 11 24H2: Alien Crossfire crashes at game start / has ran out of virtual memory / sea levels are rising on ever turn
-> Allows the installations of mods for the game.
-> Download the latest non-Python version of the program here.[dead download link]
-> Extract the content of the archive to an easily accessible folder (not to the <path-to-game>)
-> Go to options tab and <path-to-game>. Allow the mod manager to make a backup.
-> Put mods into the mods directory.
+> Since Windows 11 24H2, Alien Crossfire crashes immediately after planetfall. Use this compatibility fix by Nathan Baggs to fix this. The PRACX executable is not officially supported by the patcher but does work.[2] A detailed overview of what happens is available on the author's YouTube channel.
+> Graphics feature State WSGF Notes Widescreen resolution See Widescreen resolution. Multi-monitor Ultra-widescreen See Widescreen resolution. 4K Ultra HD See Widescreen resolution. Field of view (FOV) Windowed See PRACX. Borderless fullscreen windowed See the glossary page for potential workarounds. Anisotropic filtering (AF) See the glossary page for potential workarounds. Anti-aliasing (AA) See the glossary page for potential workarounds. Vertical sync (Vsync) See the glossary page for potential workarounds. 60 FPS and 120+ FPS High dynamic range display (HDR) Color blind mode An official separate color palette adapted for color-blind players was released. Mirror available here. Included in the GOG.com and Steam releases.
+> Keyboard and mouse State Notes Remapping See the glossary page for potential workarounds.
