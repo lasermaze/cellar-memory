@@ -1,6 +1,6 @@
 # StarCraft
 
-**Last updated:** 2026-04-15 | Sources: PCGamingWiki
+**Last updated:** 2026-05-02 | Sources: PCGamingWiki
 
 ## Compatibility
 
