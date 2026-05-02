@@ -1,6 +1,6 @@
 # Dungeon Keeper 2
 
-**Last updated:** 2026-04-15 | Sources: Lutris, ProtonDB, PCGamingWiki
+**Last updated:** 2026-05-02 | Sources: Lutris, ProtonDB, PCGamingWiki
 
 ## Compatibility
 
