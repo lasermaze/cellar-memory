@@ -1,6 +1,6 @@
-# Planescape Torment
+# Planescape: Torment
 
-**Last updated:** 2026-04-15 | Sources: Lutris, PCGamingWiki
+**Last updated:** 2026-05-02 | Sources: Lutris, PCGamingWiki
 
 ## Compatibility
 
