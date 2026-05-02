@@ -1,6 +1,6 @@
 # Baldur's Gate II
 
-**Last updated:** 2026-04-15 | Sources: ProtonDB, PCGamingWiki
+**Last updated:** 2026-05-02 | Sources: ProtonDB, PCGamingWiki
 
 ## Compatibility
 
