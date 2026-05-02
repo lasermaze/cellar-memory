@@ -1,6 +1,6 @@
 # Heroes of Might and Magic III
 
-**Last updated:** 2026-04-15 | Sources: Lutris
+**Last updated:** 2026-05-02 | Sources: Lutris
 
 ## Compatibility
 
