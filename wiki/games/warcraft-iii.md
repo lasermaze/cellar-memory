@@ -1,6 +1,6 @@
 # Warcraft III
 
-**Last updated:** 2026-04-15 | Sources: PCGamingWiki
+**Last updated:** 2026-05-02 | Sources: PCGamingWiki
 
 ## Compatibility
 
@@ -42,7 +42,7 @@
 > Install the latest retail patch
 > ### Black screen with audio for in-game cinematics
 > Blizzard's video codec does not get properly registered during installation on newer operating systems.
-> Manually registering the codecs[8] Run the Command Prompt as administrator. Type regsvr32 "<path-to-game>\blizzard.ax" and press ↵Enter. Notes To manually unregister it, run the same command but with the /u parameter before the file path.
-> Download and install LAVFilters[9]
+> Manually registering the codecs[9] Run the Command Prompt as administrator. Type regsvr32 "<path-to-game>\blizzard.ax" and press ↵Enter. Notes To manually unregister it, run the same command but with the /u parameter before the file path.
+> Download and install LAVFilters[10]
 > Force the game to run with OpenGL rendering[citation needed] See the API table for details.
 > Run the game in Windowed mode[citation needed] See the Video settings table for details. Notes This fix reportedly worked well on older Intel integrated GPUs.
